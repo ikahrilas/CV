@@ -6,18 +6,14 @@ output:
 geometry: margin=1in
 
 title: "CV"
-author: William Sealy Gosset
+author: "Ian J. Kahrilas"
 
-jobtitle: "Chief Brewer, Arthur Guinness & Son"
-address: "Guinness Brewery · Park Royal · London NW10 7RR, UK"
+jobtitle: "Clinical Psychology PhD Candidate"
+address: "203 Columbia Avenue, Park Ridge, IL 60068"
 fontawesome: yes
-email: guinness@consumer-care.net
-# github: svmiller
-# twitter: stevenvmiller
-#osf: "Enter 5 digit osf string here"
-phone: "+353 1 408 4800"
-web: guinness.com
-updated: no
+email: ikahrilas@luc.edu
+github: ikahrilas
+osf: "z5vea"
 
 keywords: R Markdown, academic CV, template
 
@@ -28,7 +24,7 @@ linkcolor: blue
 urlcolor: blue
 ---
   
-  # Employment
+# Employment
   
   *Arthur Guinness & Son*
   
