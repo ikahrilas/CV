@@ -68,6 +68,31 @@ Silton, R.L., **Kahrilas, I.J.**, Polnaszek, K.L., Smith, J.L., & Bryant, F.B. (
 emotion regulation. Symposium paper accepted for presentation at Society for Research in Psychopathology (SRP), Indianapolis, IN.
 
 \endgroup
-# References
+# Conference Presentations
+\begingroup
+\setlength{\parindent}{-0.5in}
+\setlength{\leftskip}{0.5in}
+\setlength{\parskip}{8pt}
+**Kahrilas I.J.**, Bryant, F.B., Polnaszek, K.L., Diviero, A., Schroer, M., Hussaini, A., Silton, R.L. (2019, September). Positive emotion regulation: The neural correlates of savoring. Poster session presented at Society for Psychophysiological Research Annual Meeting, Washington, DC.  
+
+**Kahrilas, I.J.**, Sims, E., Dosamantes, N., Ward, S., Silton, R.L., & Morrison, R.G. (2019, March). Functional differences in a cognitive control network in older adults with exceptional memory. Poster session presented at the Cognitive Neuroscience Society Annual Meeting, San Francisco, CA.  
+
+Huguenel, B., Silton, R., Duffecy, J. Economides, M., **Kahrilas, I.J.**, & Conley, C. (2019, March). Technology- based mindfulness and depression in college students. Poster session presented at the University of Michigan Depression on College Campuses Conference, Ann Arbor, MI.  
+   
+Polnaszek, K.L., **Kahrilas I.J.**, Murray, C., Bohnert A., Hellman K.M., Tu, F.F., Silton, R.L. (2018, September). Pain Symptomatology Influences Inhibitory Control Through Psychological Symptoms in Emerging Adults. Poster session presented at Society for Research in Psychopathology (SRP), Indianapolis, IN.  
+
+**Kahrilas, I.J.**, Dickson, D.A., Lee, C., Silton, R.L. (2018, April). Positive affectivity distinctly influences negative interpretation bias in individuals with remitted depression. Poster session presented at Society for Affective Science (SAS), Los Angeles, CA.
+
+Polnaszek, K.L., **Kahrilas, I.J.**, Bates, C., Bohnert, A., Hellman, K.M., Tu, F.F., & Silton, R.L. (2018, February). Inhibitory control and psychological symptoms influence pain symptomatology in emerging adults. Poster session presented at International Neuropsychological Society (INS), Washington, D.C.
+
+**Kahrilas, I.J.**, Bryant, F.B., Kais, L.A., Domokos, F.E., & Silton, R.L. (2017, April). Savoring the moment distinctly mediates the relationship between affect and depression. Poster session presented at Society for Affective Science (SAS), Boston, MA.
+
+Meinke, M., **Kahrilas, I.J.**, Polnaszek, K., Silton, R.L. (2017, April). Executive function as a moderator of the relationship between psychache and suicidal ideation. Poster session presented at Loyola Undergraduate Research Opportunities Program (LUROP) Research Symposium, Chicago, IL.
+
+Keefer, L., Craft, J., Dowjotas, K., **Kahrilas, I. J.**, Roman, S., Pandolfino, J. E. (2015). Symptom reporting among PPI non responders may be driven by esophageal hypervigilance and not reflux phenotype. Gastroenterology, 148(4):S-147.
+
+Quinton, S., **Kahrilas, I. J.**, Kassam, A., Srivastava, A.K., Komanduri, S., & Keefer, L. (2014). When the diagnosis is pancreatic cancer: an analysis of coping strategies among endosonographers. Gastrointestinal Endoscopy, 79(5), AB202.
+
+\endgroup
 
 Available upon request, though likely would include Karl Pearson and Ronald A. Fisher. Please send corrections, feedback, or details of missed publications (of which there are probably a few) to svmille@clemson.edu.
