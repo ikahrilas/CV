@@ -39,7 +39,7 @@ B.S., Psychology  \hfill Cumulative GPA: 3.96
 **-**2018 Kobler Travel Award ($400).  
 **-**2017 Heckler Fellowship Award ($3,000).  
 **-**Graduate Merit Tuition Scholarship, Loyola University Chicago: August 2016-Present.  
-**-**Emanuel Donchin Award for outstanding undergraduate research assistant in cognitive neuroscience ($300).  
+**-**Emanuel Donchin Award for outstanding undergraduate research assistant in cognitive neuroscience.  
 **-**UIUC Dean’s List: Fall 2011, Spring 2012, Fall 2012, Spring 2013, Fall 2013, Spring 2014.  
 
 # Publications
@@ -59,12 +59,15 @@ Silton, R.L., Polnaszek, K.L., **Kahrilas, I.J.**, Dickson, D.A., Miller, G.A., 
 
 \endgroup
 
-## Other Publications
+# Conference Talks
+\begingroup
+\setlength{\parindent}{-0.5in}
+\setlength{\leftskip}{0.5in}
+\setlength{\parskip}{8pt}
+Silton, R.L., **Kahrilas, I.J.**, Polnaszek, K.L., Smith, J.L., & Bryant, F.B. (2018). Psychological and neural correlates of positive
+emotion regulation. Symposium paper accepted for presentation at Society for Research in Psychopathology (SRP), Indianapolis, IN.
 
-Student. 1905. "The Pearson Co-efficient of Correlation." Supplement to Report of 1904, Arthur Guinness Son & Company.
-
-Student. 1904. "The Application of the 'Law of Error' to the Work of the Brewery." Report, Arthur Guinness Son & Company.
-
+\endgroup
 # References
 
 Available upon request, though likely would include Karl Pearson and Ronald A. Fisher. Please send corrections, feedback, or details of missed publications (of which there are probably a few) to svmille@clemson.edu.
