@@ -55,6 +55,8 @@ Alexander, R., Aragon, O., Bookwala, J., Cherbuin, N., Gatt, J.M., **Kahrilas, I
 **Kahrilas, I.J.**, Smith, J.L., Bryant, F.B., Silton, R.L. (revise & resubmit). Savoring the moment: A link between affectivity and depression. International Journal of Well Being.
 Silton, R.L., Kahrilas, I.J., Skymba, H.V., Bryant, F.B., & Heller, W. (in press). Positive emotion regulation and wellbeing: Implications for risk and resilience across the lifespan. Emotion.  
 
+Silton, R.L., **Kahrilas, I.J.**, Skymba, H.V., Bryant, F.B., & Heller, W. (in press). Positive emotion regulation and wellbeing: Implications for risk and resilience across the lifespan. Emotion.
+
 Silton, R.L., Polnaszek, K.L., **Kahrilas, I.J.**, Dickson, D.A., Miller, G.A., & Heller, W. (revise & resubmit). Low positive affect is associated with reduced prefrontal cortical activity in remitted depression.  
 
 \endgroup
@@ -174,3 +176,44 @@ Course: Introduction to Data Science with R
 
 * •Introductory course for programming, data visualization, data management/ manipulation, and statistical procedures in the R language.
 
+*Graduate Student Teaching Assistant* \hfill Chicago, IL  
+Psychology Department, Loyola University Chicago \hfill January 2019 - December 2019  
+Supervisor: Lawrence Behmer, Ph.D.  
+Courses: Statistics
+
+* •Graded exams and bi-weekly homework assignments.
+
+*Graduate Student Teaching Assistant* \hfill Chicago, IL  
+Psychology Department, Loyola University Chicago  \hfill January 2019 - May 2019  
+Supervisor: Eric Gobel, Ph.D.  
+Courses: Learning & Behavior  
+
+* •Administered and graded assignments and exams.
+* •Calculated grades.
+* •Held weekly office hours.
+
+*Graduate Student Teaching Assistant* \hfill Chicago, IL  
+Psychology Department, Loyola University Chicago \hfill August 2018 - December 2018  
+Supervisor: Robert Morrison, Ph.D.  
+Courses: Neuroscience & Psychology of Creativity
+
+* •Administered and graded assignments and exams.
+* •Calculated grades.
+* •Graded weekly discussion questions and blog posts.
+* •Disseminated information regarding weekly neuroscience seminars.
+
+*Graduate Student Teaching Assistant* \hfill Chicago, IL  
+Psychology Department, Loyola University Chicago \hfill September 2016 - May 2017  
+Supervisor: Richard Bowen, Ph.D.  
+Course: Introduction to Psychology  
+
+* •Administered and graded assignments and exams.
+* •Calculated grades.
+
+*Graduate Student Teaching Assistant* \hfill Chicago, IL  
+Psychology Department, Loyola University Chicago \hfill September 2016 - May 2017  
+Supervisor: Jerome Wagner, Ph.D.  
+Courses: Learning and Behavior, Psychology of Personality
+
+* •Administered and graded assignments and exams.
+* •Calculated grades.
