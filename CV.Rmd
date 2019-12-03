@@ -3,7 +3,7 @@ output:
   pdf_document:
     latex_engine: pdflatex
     template: ~/Dropbox/Kahrilas-latex-CV.tex
-geometry: margin=0.5in
+geometry: margin=1in
 
 title: "CV"
 author: "Ian J. Kahrilas"
@@ -44,11 +44,19 @@ B.S., Psychology  \hfill Cumulative GPA: 3.96
 
 # Publications
 \begingroup
-\setlength{\parindent}{0.0in}
-\setlength{\leftskip}{0.4in}
+\setlength{\parindent}{-0.5in}
+\setlength{\leftskip}{0.5in}
 \setlength{\parskip}{8pt}
 Alexander, R., Aragon, O., Bookwala, J., Cherbuin, N., Gatt, J.M., **Kahrilas, I.J.**,  Kastener, N., Lawrence, A., Lowe, L., Morrison, R.G., Mueller, S.C., Papadelis, C., Polnaszek, K.L., Richter, S.H., Silton, R.L., & Styliadis, C. (revise & resubmit). Happiness and wellbeing: A review of human and animal research.  
-*authorship is alphabetical
+*authorship is alphabetical  
+
+**Kahrilas, I.J.** & Kahrilas, P.J. (2019). Reflux disease and idiopathic lung fibrosis: Association does not imply causation. Chest, 155(1), 5-6. https://doi.org/10.1016/j.chest.2018.08.1062  
+
+**Kahrilas, I.J.**, Smith, J.L., Bryant, F.B., Silton, R.L. (revise & resubmit). Savoring the moment: A link between affectivity and depression. International Journal of Well Being.
+Silton, R.L., Kahrilas, I.J., Skymba, H.V., Bryant, F.B., & Heller, W. (in press). Positive emotion regulation and wellbeing: Implications for risk and resilience across the lifespan. Emotion.  
+
+Silton, R.L., Polnaszek, K.L., **Kahrilas, I.J.**, Dickson, D.A., Miller, G.A., & Heller, W. (revise & resubmit). Low positive affect is associated with reduced prefrontal cortical activity in remitted depression.  
+
 \endgroup
 
 ## Other Publications
