@@ -24,25 +24,25 @@ linkcolor: blue
 urlcolor: blue
 ---
   
-# Education
+# EDUCATION
 
-*Loyola University Chicago* \hfill 2016-Present  
+*Loyola University Chicago* \hfill 2016 - Present  
 Master of Arts with Distinction \hfill Cumulative GPA: 3.99  
 Clinical Psychology  
 Master's Thesis: The Neurobiological Correlates of Savoring  
   
-*University of Illinois at Urbana-Champaign*  \hfill 2011-2014  
+*University of Illinois at Urbana-Champaign*  \hfill 2011 - 2014  
 B.S., Psychology  \hfill Cumulative GPA: 3.96  
 
-# Awards & Honors
-**-**Loyola University Chicago Thesis of the Year Award in the Social Sciences ($300).  
-**-**2018 Kobler Travel Award ($400).  
-**-**2017 Heckler Fellowship Award ($3,000).  
-**-**Graduate Merit Tuition Scholarship, Loyola University Chicago: August 2016-Present.  
-**-**Emanuel Donchin Award for outstanding undergraduate research assistant in cognitive neuroscience.  
-**-**UIUC Dean’s List: Fall 2011, Spring 2012, Fall 2012, Spring 2013, Fall 2013, Spring 2014.  
+# AWARDS & HONORS
+**•**Loyola University Chicago Thesis of the Year Award in the Social Sciences ($300).  
+**•**2018 Kobler Travel Award ($400).  
+**•**2017 Heckler Fellowship Award ($3,000).  
+**•**Graduate Merit Tuition Scholarship, Loyola University Chicago: August 2016-Present.  
+**•**Emanuel Donchin Award for outstanding undergraduate research assistant in cognitive neuroscience.  
+**•**UIUC Dean’s List: Fall 2011, Spring 2012, Fall 2012, Spring 2013, Fall 2013, Spring 2014.  
 
-# Publications
+# PUBLICATIONS
 \begingroup
 \setlength{\parindent}{-0.5in}
 \setlength{\leftskip}{0.5in}
@@ -59,7 +59,7 @@ Silton, R.L., Polnaszek, K.L., **Kahrilas, I.J.**, Dickson, D.A., Miller, G.A., 
 
 \endgroup
 
-# Conference Talks
+# CONFERENCE TALKS
 \begingroup
 \setlength{\parindent}{-0.5in}
 \setlength{\leftskip}{0.5in}
@@ -68,7 +68,7 @@ Silton, R.L., **Kahrilas, I.J.**, Polnaszek, K.L., Smith, J.L., & Bryant, F.B. (
 emotion regulation. Symposium paper accepted for presentation at Society for Research in Psychopathology (SRP), Indianapolis, IN.
 
 \endgroup
-# Conference Presentations
+# CONFERENCE PRESENTATIONS
 \begingroup
 \setlength{\parindent}{-0.5in}
 \setlength{\leftskip}{0.5in}
@@ -94,5 +94,83 @@ Keefer, L., Craft, J., Dowjotas, K., **Kahrilas, I. J.**, Roman, S., Pandolfino,
 Quinton, S., **Kahrilas, I. J.**, Kassam, A., Srivastava, A.K., Komanduri, S., & Keefer, L. (2014). When the diagnosis is pancreatic cancer: an analysis of coping strategies among endosonographers. Gastrointestinal Endoscopy, 79(5), AB202.
 
 \endgroup
+# GRADUATE COURSEWORK
+Introduction to the Profession of Clinical Psychology \hfill Adult Psychopathology  
+Intellectual and Personality Assessment \hfill Neuropsychology  
+Advanced Statistics \hfill Evidence-Based Practice for Adults  
+Multivariate Statistics \hfill R Programming for the Social Sciences  
+Health Psychology \hfill Structural Equation Modeling  
+Hierarchical Linear Modeling \hfill Research Methods  
+Practicum in Psychotherapy \hfill Psychophysiological Methods  
+History and Systems in Psychology \hfill Human Diversity  
+Family Systems Therapy \hfill Ethics and Professional Practice  
+Social Development \hfill Cognitive Neuroscience  
 
-Available upon request, though likely would include Karl Pearson and Ronald A. Fisher. Please send corrections, feedback, or details of missed publications (of which there are probably a few) to svmille@clemson.edu.
+# RESEARCH EXPERIENCE
+*Wellbeing and Emotion Lab* \hfill Chicago, IL  
+Loyola University Chicago \hfill August 2016 - Present  
+Graduate Research Assistant  
+Principal Investigator: Rebecca Levin Silton, Ph.D.  
+
+*Cognitive and Affective Neuroscience Lab* \hfill Chicago, IL  
+Loyola University Chicago \hfill August 2018 - Present  
+Graduate Research Assistant  
+Principal Investigator: Robert Morrison, Ph.D.  
+
+*Malecki-Demaray Lab* \hfill DeKalb, IL  
+Northern Illinois University. \hfill August 2014 - December 2014  
+Research Assistant  
+Principal Investigators: Christine Malecki, Ph.D. & Michelle Demaray, Ph.D.  
+
+*Social, Cognitive, Personality, and Emotional Neuroscience Lab* \hfill Champaign, IL  
+University of Illinois at Urbana-Champaign. \hfill August 2013 - May 2014  
+Undergraduate Research Assistant  
+Principal Investigator: Florin Dolcos, Ph.D.  
+
+*Center for Psychosocial Research in GI* \hfill Chicago, IL  
+Northwestern University Feinberg School of Medicine. \hfill May 2012 -  August 2014  
+Summer Intern  
+Principal Investigator: Laurie Keefer, Ph.D.    
+
+# CLINICAL ASSESSMENT EXPERIENCE
+*Neuropsychology Technician* \hfill Evanston, IL    
+NorthShore University HealthSystem \hfill July 2019 - Present  
+Supervisors: Leslie Guidotti-Breting, Ph.D., Elizabeth Geary, Ph.D., & Jerry Sweet, Ph.D.  
+
+*Neuropsychology Extern* \hfill Evanston, IL  
+NorthShore University HealthSystem \hfill July 2018 - July 2019  
+Supervisors: Leslie Guidotti-Breting, Ph.D., Elizabeth Geary, Ph.D., & Jerry Sweet, Ph.D.  
+
+*Neuropsychology Technician* \hfill Arlington Heights, IL  
+Dirksen Center for Neurobehavioral Health \hfill January 2015 - June 2016  
+Supervisors: Courtney Dirksen, Ph.D. & Maribel Serrato, Psy.D. 
+
+# CLINICAL THERAPY EXPERIENCE
+*Psychotherapy Extern, Mood and Anxiety Disorders Program* \hfill Chicago, IL  
+University of Illinois at Chicago, Department of Psychiatry. \hfill July 2019 - Present  
+Supervisors: Jennifer Duffecy, Ph.D., Gustavo Medrano, Ph.D.  
+
+*Graduate Student Counselor* \hfill Chicago, IL  
+Loyola University Wellness Center \hfill September 2017 - May 2018  
+Supervisors: Scott Leon, Ph.D. & Jerry Wagner, Ph.D.
+
+# TEACHING AND MENTORSHIP EXPERIENCE
+*Instructor* \hfill Chicago, IL  
+Loyola University Chicago \hfill August 2019 - Present  
+Course: Statistics
+
+* •Designed syllabus and curriculum. Delivered weekly lectures. Evaluated student coursework and performance. Mentored and assisted students.  
+
+*Graduate Student Supervisor* \hfill Chicago, IL  
+Department of Clinical Psychology, Loyola University Chicago \hfill September 2017 - November 2019  
+Supervisors: Scott Leon, Ph.D. & Maryse Richards, Ph.D.
+
+* •Supervised first- and second-year clinical psychology graduate students in developing clinical interviewing and case conceptualization skills. Reviewed mock intake and therapy sessions, evaluated clinical reports, and provided written and verbal feedback.
+* •Delivered feedback to a second-year student on the development of supervisory skills. Received feedback on supervision skills from faculty supervisor.
+
+*Instructor* \hfill Chicago, IL  
+Loyola University Chicago Pre-College Summer Scholars Program \hfill June 2018 & July 2019  
+Course: Introduction to Data Science with R
+
+* •Introductory course for programming, data visualization, data management/ manipulation, and statistical procedures in the R language.
+
