@@ -3,7 +3,7 @@ output:
   pdf_document:
     latex_engine: pdflatex
     template: ~/Dropbox/Kahrilas-latex-CV.tex
-geometry: margin=1in
+geometry: margin=0.7in
 
 title: "CV"
 author: "Ian J. Kahrilas"
@@ -217,3 +217,9 @@ Courses: Learning and Behavior, Psychology of Personality
 
 * •Administered and graded assignments and exams.
 * •Calculated grades.
+
+# PROFESSIONAL AFFILIATIONS
+Society for Psychophysiological Research (SPR) \hfill APA Division 40, Society for Clinical Neuropsychology  
+Cognitive Neuroscience Society (CNS) \hfill Society for Affective Science (SAS)  
+International Neuropsychological Society (INS)  \hfill Society for Research in Psychopathology (SRP)  
+American Psychological Association (APA)
