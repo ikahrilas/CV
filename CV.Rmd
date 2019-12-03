@@ -3,14 +3,15 @@ output:
   pdf_document:
     latex_engine: pdflatex
     template: ~/Dropbox/Kahrilas-latex-CV.tex
-geometry: margin=0.7in
+geometry: margin=0.5in
 
 title: "CV"
 author: "Ian J. Kahrilas"
 
 jobtitle: "Clinical Psychology PhD Candidate"
-address: "203 Columbia Avenue, Park Ridge, IL 60068"
+address: "1032 W. Sheridan Rd. · Loyola University Chicago · Chicago, IL 60660"
 fontawesome: yes
+updated: yes
 email: ikahrilas@luc.edu
 github: ikahrilas
 osf: "z5vea"
@@ -38,7 +39,7 @@ B.S., Psychology  \hfill Cumulative GPA: 3.96
 **•**Loyola University Chicago Thesis of the Year Award in the Social Sciences ($300).  
 **•**2018 Kobler Travel Award ($400).  
 **•**2017 Heckler Fellowship Award ($3,000).  
-**•**Graduate Merit Tuition Scholarship, Loyola University Chicago: August 2016-Present.  
+**•**Graduate Merit Tuition Scholarship, Loyola University Chicago: August 2016 - Present.  
 **•**Emanuel Donchin Award for outstanding undergraduate research assistant in cognitive neuroscience.  
 **•**UIUC Dean’s List: Fall 2011, Spring 2012, Fall 2012, Spring 2013, Fall 2013, Spring 2014.  
 
@@ -223,3 +224,38 @@ Society for Psychophysiological Research (SPR) \hfill APA Division 40, Society f
 Cognitive Neuroscience Society (CNS) \hfill Society for Affective Science (SAS)  
 International Neuropsychological Society (INS)  \hfill Society for Research in Psychopathology (SRP)  
 American Psychological Association (APA)
+
+# LEADERSHIP AND PROFESSIONAL SERVICE
+*Technology Committee* \hfill Chicago, IL  
+Clinical Psychology Department, Loyola University Chicago \hfill September 2019 - Present  
+
+* •Administer bi-annual program survey.
+* •Disseminate survey data to students, alum, and faculty.
+* •Act as liaison between technology and information committees.
+
+*Information Committee* \hfill Chicago, IL  
+Clinical Psychology Department, Loyola University Chicago \hfill September 2018 - Present  
+
+* •Co-edit annual newsletter.
+* •Disseminate program information.
+* •Update program website.
+
+*Graduate Student Advisory Council* \hfill Chicago, IL  
+Clinical Psychology Department, Loyola University Chicago \hfill September 2017 - May 2018  
+
+* •Attend bimonthly meetings with faculty.
+* •Organize graduate student research symposium and fundraisers.
+
+*Chair: Colloquium Committee* \hfill Chicago, IL  
+Clinical Psychology Department, Loyola University Chicago \hfill September 2017 - May 2018  
+
+* •Organize and plan colloquia for clinical psychology students.
+
+# TECHNICAL AND SCIENTIFIC SKILLS
+•Statistical/data management software & programming (R, SPSS).  
+•Typesetting software (Markdown, \LaTeX).  
+•Medical electronic record systems (Epic, Powerchart).  
+•Microsoft office suite (Word, Powerpoint, Excel).  
+•Online survey software (e.g., Qualtrics, Surveymonkey, Opinio).  
+•Electroencephalography system use and data analysis (Biosemi & BESA).  
+•Psychological experiment software programming (E-Prime).
