@@ -25,10 +25,16 @@ urlcolor: blue
 ---
   
 # Education
+
+----------------------------------------------------------------------
+
+**Loyola University Chicago** \hfill 2016-Present  
+Master of Arts with Distinction \hfill Cumulative GPA: 3.99  
+Clinical Psychology  
+Master's Thesis: The Neurobiological Correlates of Savoring  
   
-*Loyola University Chicago*, Ph.D., Clinical Psychology\hfill 2016-Present
-  
-*University of Illinois at Urbana-Champaign*, B.S., Psychology \hfill 2011-2014
+**University of Illinois at Urbana-Champaign**  \hfill 2011-2014  
+B.S., Psychology  \hfill Cumulative GPA: 3.96  
 
 # Awards
 
