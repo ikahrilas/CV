@@ -158,7 +158,7 @@ Supervisors: Scott Leon, Ph.D. & Jerry Wagner, Ph.D.
 
 # TEACHING AND MENTORSHIP EXPERIENCE
 *Instructor* \hfill Chicago, IL  
-Loyola University Chicago \hfill August 2019 - Present  
+Loyola University Chicago \hfill August 2019 - December 2019  
 Course: Statistics
 
 * •Designed syllabus and curriculum. Delivered weekly lectures. Evaluated student coursework and performance. Mentored and assisted students.  
