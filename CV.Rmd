@@ -1,27 +1,24 @@
 ---
-output: 
+title: "CV"
+author: "Ian J. Kahrilas"
+email: ikahrilas@luc.edu
+output:
   pdf_document:
     latex_engine: pdflatex
     template: ~/Dropbox/Kahrilas-latex-CV.tex
-geometry: margin=0.5in
-
-title: "CV"
-author: "Ian J. Kahrilas"
-
-jobtitle: "Clinical Psychology PhD Candidate"
-address: "1032 W. Sheridan Rd. · Loyola University Chicago · Chicago, IL 60660"
-fontawesome: yes
-updated: yes
-email: ikahrilas@luc.edu
-github: ikahrilas
-osf: "z5vea"
-
-keywords: R Markdown, academic CV, template
-
-#fontfamily: mathpazo
+  html_document:
+    df_print: paged
 fontfamilyoptions: sc, osf
 fontsize: 11pt
+geometry: margin=0.5in
+github: ikahrilas
+jobtitle: Clinical Psychology PhD Candidate
+keywords: R Markdown, academic CV, template
 linkcolor: blue
+osf: z5vea
+fontawesome: yes
+address: 1032 W. Sheridan Rd. · Loyola University Chicago · Chicago, IL 60660
+updated: yes
 urlcolor: blue
 ---
   
@@ -55,7 +52,7 @@ Alexander, R., Aragon, O., Bookwala, J., Cherbuin, N., Gatt, J.M., **Kahrilas, I
 
 **Kahrilas, I.J.**, Smith, J.L., Bryant, F.B., Silton, R.L. (revise & resubmit). Savoring the moment: A link between affectivity and depression. International Journal of Well Being.
 
-Silton, R.L., **Kahrilas, I.J.**, Skymba, H.V., Bryant, F.B., & Heller, W. (in press). Positive emotion regulation and wellbeing: Implications for risk and resilience across the lifespan. Emotion.
+Silton, R.L., **Kahrilas, I.J.**, Skymba, H.V., Bryant, F.B., & Heller, W. (2020). Positive emotion regulation and wellbeing: Implications for risk and resilience across the lifespan. Emotion.
 
 Silton, R.L., Polnaszek, K.L., **Kahrilas, I.J.**, Dickson, D.A., Miller, G.A., & Heller, W. (revise & resubmit). Low positive affect is associated with reduced prefrontal cortical activity in remitted depression.  
 
