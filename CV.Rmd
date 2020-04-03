@@ -3,11 +3,11 @@ title: "CV"
 author: "Ian J. Kahrilas"
 email: ikahrilas@luc.edu
 output:
-  html_document:
-    df_print: paged
   pdf_document:
     latex_engine: pdflatex
-    template: ~/Dropbox/Kahrilas-latex-CV.tex
+    template: Kahrilas-latex-CV.tex
+  html_document:
+    df_print: paged
 fontfamilyoptions: sc, osf
 fontsize: 11pt
 geometry: margin=0.5in
