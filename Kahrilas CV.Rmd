@@ -1,0 +1,257 @@
+---
+title: "CV"
+author: "Ian J. Kahrilas"
+email: ikahrilas@luc.edu
+output:
+  pdf_document:
+    latex_engine: pdflatex
+    template: Kahrilas-latex-CV.tex
+  html_document:
+    df_print: paged
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+geometry: margin=0.5in
+github: ikahrilas
+jobtitle: Clinical Psychology PhD Candidate
+keywords: R Markdown, academic CV, template
+linkcolor: blue
+osf: z5vea
+fontawesome: yes
+address: 1032 W. Sheridan Rd. · Loyola University Chicago · Chicago, IL 60660
+updated: yes
+urlcolor: blue
+---
+  
+# EDUCATION
+
+*Loyola University Chicago* \hfill 2016 - Present  
+Master of Arts with Distinction \hfill Cumulative GPA: 3.99  
+Clinical Psychology  
+Master's Thesis: The Neurobiological Correlates of Savoring  
+  
+*University of Illinois at Urbana-Champaign*  \hfill 2011 - 2014  
+B.S., Psychology  \hfill Cumulative GPA: 3.96  
+
+# AWARDS & HONORS
+\textbullet Loyola University Chicago Thesis of the Year Award in the Social Sciences ($300).  
+\textbullet 2018 Kobler Travel Award ($400).  
+\textbullet 2017 Heckler Fellowship Award ($3,000).  
+\textbullet Graduate Merit Tuition Scholarship, Loyola University Chicago: August 2016 - Present.  
+\textbullet Emanuel Donchin Award for outstanding undergraduate research assistant in cognitive neuroscience.  
+\textbullet UIUC Dean’s List: Fall 2011, Spring 2012, Fall 2012, Spring 2013, Fall 2013, Spring 2014.  
+
+# PUBLICATIONS
+\begingroup
+\setlength{\parindent}{-0.5in}
+\setlength{\leftskip}{0.5in}
+\setlength{\parskip}{8pt}
+Alexander, R., Aragon, O., Bookwala, J., Cherbuin, N., Gatt, J.M., **Kahrilas, I.J.**,  Kastener, N., Lawrence, A., Lowe, L., Morrison, R.G., Mueller, S.C., Papadelis, C., Polnaszek, K.L., Richter, S.H., Silton, R.L., & Styliadis, C. (revise & resubmit). Happiness and wellbeing: A review of human and animal research.  
+*authorship is alphabetical  
+
+**Kahrilas, I.J.** & Kahrilas, P.J. (2019). Reflux disease and idiopathic lung fibrosis: Association does not imply causation. Chest, 155(1), 5-6. https://doi.org/10.1016/j.chest.2018.08.1062  
+
+**Kahrilas, I.J.**, Smith, J.L., Silton, R.L., Bryant, F.B. (in press). Savoring the moment: A link between affectivity and depression. International Journal of Well Being.
+
+Silton, R.L., **Kahrilas, I.J.**, Skymba, H.V., Bryant, F.B., & Heller, W. (2020). Positive emotion regulation and wellbeing: Implications for risk and resilience across the lifespan. Emotion.
+
+Silton, R.L., Polnaszek, K.L., **Kahrilas, I.J.**, Dickson, D.A., Miller, G.A., & Heller, W. (revise & resubmit). Low positive affect is associated with reduced prefrontal cortical activity in remitted depression.  
+
+\endgroup
+
+# CONFERENCE TALKS
+\begingroup
+\setlength{\parindent}{-0.5in}
+\setlength{\leftskip}{0.5in}
+\setlength{\parskip}{8pt}
+Silton, R.L., **Kahrilas, I.J.**, Polnaszek, K.L., Smith, J.L., & Bryant, F.B. (2018). Psychological and neural correlates of positive
+emotion regulation. Symposium paper accepted for presentation at Society for Research in Psychopathology (SRP), Indianapolis, IN.
+
+\endgroup
+# CONFERENCE PRESENTATIONS
+\begingroup
+\setlength{\parindent}{-0.5in}
+\setlength{\leftskip}{0.5in}
+\setlength{\parskip}{8pt}
+**Kahrilas I.J.**, Bryant, F.B., Polnaszek, K.L., Diviero, A., Schroer, M., Hussaini, A., Silton, R.L. (2019, September). Positive emotion regulation: The neural correlates of savoring. Poster session presented at Society for Psychophysiological Research Annual Meeting, Washington, DC.  
+
+**Kahrilas, I.J.**, Sims, E., Dosamantes, N., Ward, S., Silton, R.L., & Morrison, R.G. (2019, March). Functional differences in a cognitive control network in older adults with exceptional memory. Poster session presented at the Cognitive Neuroscience Society Annual Meeting, San Francisco, CA.  
+
+Huguenel, B., Silton, R., Duffecy, J. Economides, M., **Kahrilas, I.J.**, & Conley, C. (2019, March). Technology- based mindfulness and depression in college students. Poster session presented at the University of Michigan Depression on College Campuses Conference, Ann Arbor, MI.  
+   
+Polnaszek, K.L., **Kahrilas I.J.**, Murray, C., Bohnert A., Hellman K.M., Tu, F.F., Silton, R.L. (2018, September). Pain Symptomatology Influences Inhibitory Control Through Psychological Symptoms in Emerging Adults. Poster session presented at Society for Research in Psychopathology (SRP), Indianapolis, IN.  
+
+**Kahrilas, I.J.**, Dickson, D.A., Lee, C., Silton, R.L. (2018, April). Positive affectivity distinctly influences negative interpretation bias in individuals with remitted depression. Poster session presented at Society for Affective Science (SAS), Los Angeles, CA.
+
+Polnaszek, K.L., **Kahrilas, I.J.**, Bates, C., Bohnert, A., Hellman, K.M., Tu, F.F., & Silton, R.L. (2018, February). Inhibitory control and psychological symptoms influence pain symptomatology in emerging adults. Poster session presented at International Neuropsychological Society (INS), Washington, D.C.
+
+**Kahrilas, I.J.**, Bryant, F.B., Kais, L.A., Domokos, F.E., & Silton, R.L. (2017, April). Savoring the moment distinctly mediates the relationship between affect and depression. Poster session presented at Society for Affective Science (SAS), Boston, MA.
+
+Meinke, M., **Kahrilas, I.J.**, Polnaszek, K., Silton, R.L. (2017, April). Executive function as a moderator of the relationship between psychache and suicidal ideation. Poster session presented at Loyola Undergraduate Research Opportunities Program (LUROP) Research Symposium, Chicago, IL.
+
+Keefer, L., Craft, J., Dowjotas, K., **Kahrilas, I. J.**, Roman, S., Pandolfino, J. E. (2015). Symptom reporting among PPI non responders may be driven by esophageal hypervigilance and not reflux phenotype. Gastroenterology, 148(4):S-147.
+
+Quinton, S., **Kahrilas, I. J.**, Kassam, A., Srivastava, A.K., Komanduri, S., & Keefer, L. (2014). When the diagnosis is pancreatic cancer: an analysis of coping strategies among endosonographers. Gastrointestinal Endoscopy, 79(5), AB202.
+
+\endgroup
+# GRADUATE COURSEWORK
+Introduction to the Profession of Clinical Psychology \hfill Adult Psychopathology  
+Intellectual and Personality Assessment \hfill Neuropsychology  
+Advanced Statistics \hfill Evidence-Based Practice for Adults  
+Multivariate Statistics \hfill R Programming for the Social Sciences  
+Health Psychology \hfill Structural Equation Modeling  
+Hierarchical Linear Modeling \hfill Research Methods  
+Practicum in Psychotherapy \hfill Psychophysiological Methods  
+History and Systems in Psychology \hfill Human Diversity  
+Family Systems Therapy \hfill Ethics and Professional Practice  
+Social Development \hfill Cognitive Neuroscience  
+
+# RESEARCH EXPERIENCE
+*Wellbeing and Emotion Lab* \hfill Chicago, IL  
+Loyola University Chicago \hfill August 2016 - Present  
+Graduate Research Assistant  
+Principal Investigator: Rebecca Levin Silton, Ph.D.  
+
+*Cognitive and Affective Neuroscience Lab* \hfill Chicago, IL  
+Loyola University Chicago \hfill August 2018 - Present  
+Graduate Research Assistant  
+Principal Investigator: Robert Morrison, Ph.D.  
+
+*Malecki-Demaray Lab* \hfill DeKalb, IL  
+Northern Illinois University. \hfill August 2014 - December 2014  
+Research Assistant  
+Principal Investigators: Christine Malecki, Ph.D. & Michelle Demaray, Ph.D.  
+
+*Social, Cognitive, Personality, and Emotional Neuroscience Lab* \hfill Champaign, IL  
+University of Illinois at Urbana-Champaign. \hfill August 2013 - May 2014  
+Undergraduate Research Assistant  
+Principal Investigator: Florin Dolcos, Ph.D.  
+
+*Center for Psychosocial Research in GI* \hfill Chicago, IL  
+Northwestern University Feinberg School of Medicine. \hfill May 2012 -  August 2014  
+Summer Intern  
+Principal Investigator: Laurie Keefer, Ph.D.    
+
+# CLINICAL ASSESSMENT EXPERIENCE
+*Neuropsychology Technician* \hfill Evanston, IL    
+NorthShore University HealthSystem \hfill July 2019 - Present  
+Supervisors: Leslie Guidotti-Breting, Ph.D., Elizabeth Geary, Ph.D., & Jerry Sweet, Ph.D.  
+
+*Neuropsychology Extern* \hfill Evanston, IL  
+NorthShore University HealthSystem \hfill July 2018 - July 2019  
+Supervisors: Leslie Guidotti-Breting, Ph.D., Elizabeth Geary, Ph.D., & Jerry Sweet, Ph.D.  
+
+*Neuropsychology Technician* \hfill Arlington Heights, IL  
+Dirksen Center for Neurobehavioral Health \hfill January 2015 - June 2016  
+Supervisors: Courtney Dirksen, Ph.D. & Maribel Serrato, Psy.D. 
+
+# CLINICAL THERAPY EXPERIENCE
+*Psychotherapy Extern, Mood and Anxiety Disorders Program* \hfill Chicago, IL  
+University of Illinois at Chicago, Department of Psychiatry. \hfill July 2019 - Present  
+Supervisors: Jennifer Duffecy, Ph.D. 
+
+*Graduate Student Counselor* \hfill Chicago, IL  
+Loyola University Wellness Center \hfill September 2017 - May 2018  
+Supervisors: Scott Leon, Ph.D. & Jerry Wagner, Ph.D.
+
+# TEACHING AND MENTORSHIP EXPERIENCE
+*Instructor* \hfill Chicago, IL  
+Loyola University Chicago \hfill August 2019 - December 2019  
+Course: Statistics
+
+* Designed syllabus and curriculum. Delivered weekly lectures. Evaluated student coursework and performance. Mentored and assisted students.  
+
+*Graduate Student Supervisor* \hfill Chicago, IL  
+Department of Clinical Psychology, Loyola University Chicago \hfill September 2017 - November 2019  
+Supervisors: Scott Leon, Ph.D. & Maryse Richards, Ph.D.
+
+* Supervised first- and second-year clinical psychology graduate students in developing clinical interviewing and case conceptualization skills. Reviewed mock intake and therapy sessions, evaluated clinical reports, and provided written and verbal feedback.
+* Delivered feedback to a second-year student on the development of supervisory skills. Received feedback on supervision skills from faculty supervisor.
+
+*Instructor* \hfill Chicago, IL  
+Loyola University Chicago Pre-College Summer Scholars Program \hfill June 2018 & July 2019  
+Course: Introduction to Data Science with R
+
+* Introductory course for programming, data visualization, data management/ manipulation, and statistical procedures in the R language.
+
+*Graduate Student Teaching Assistant* \hfill Chicago, IL  
+Psychology Department, Loyola University Chicago \hfill January 2019 - December 2019  
+Supervisor: Lawrence Behmer, Ph.D.  
+Courses: Statistics
+
+* Graded exams and bi-weekly homework assignments.
+
+*Graduate Student Teaching Assistant* \hfill Chicago, IL  
+Psychology Department, Loyola University Chicago  \hfill January 2019 - May 2019  
+Supervisor: Eric Gobel, Ph.D.  
+Courses: Learning & Behavior  
+
+* Administered and graded assignments and exams.
+* Calculated grades.
+* Held weekly office hours.
+
+*Graduate Student Teaching Assistant* \hfill Chicago, IL  
+Psychology Department, Loyola University Chicago \hfill August 2018 - December 2018  
+Supervisor: Robert Morrison, Ph.D.  
+Courses: Neuroscience & Psychology of Creativity
+
+* Administered and graded assignments and exams.
+* Calculated grades.
+* Graded weekly discussion questions and blog posts.
+* Disseminated information regarding weekly neuroscience seminars.
+
+*Graduate Student Teaching Assistant* \hfill Chicago, IL  
+Psychology Department, Loyola University Chicago \hfill September 2016 - May 2017  
+Supervisor: Richard Bowen, Ph.D.  
+Course: Introduction to Psychology  
+
+* Administered and graded assignments and exams.
+* Calculated grades.
+
+*Graduate Student Teaching Assistant* \hfill Chicago, IL  
+Psychology Department, Loyola University Chicago \hfill September 2016 - May 2017  
+Supervisor: Jerome Wagner, Ph.D.  
+Courses: Learning and Behavior, Psychology of Personality
+
+* Administered and graded assignments and exams.
+* Calculated grades.
+
+# PROFESSIONAL AFFILIATIONS
+Society for Psychophysiological Research (SPR) \hfill APA Division 40, Society for Clinical Neuropsychology  
+Cognitive Neuroscience Society (CNS) \hfill Society for Affective Science (SAS)  
+International Neuropsychological Society (INS)  \hfill Society for Research in Psychopathology (SRP)  
+American Psychological Association (APA)
+
+# LEADERSHIP AND PROFESSIONAL SERVICE
+*Technology Committee* \hfill Chicago, IL  
+Clinical Psychology Department, Loyola University Chicago \hfill September 2019 - Present  
+
+* Administer bi-annual program survey.
+* Disseminate survey data to students, alum, and faculty.
+* Act as liaison between technology and information committees.
+
+*Information Committee* \hfill Chicago, IL  
+Clinical Psychology Department, Loyola University Chicago \hfill September 2018 - Present  
+
+* Co-edit annual newsletter.
+* Disseminate program information.
+* Update program website.
+
+*Graduate Student Advisory Council* \hfill Chicago, IL  
+Clinical Psychology Department, Loyola University Chicago \hfill September 2017 - May 2018  
+
+* Attend bimonthly meetings with faculty.
+* Organize graduate student research symposium and fundraisers.
+
+*Chair: Colloquium Committee* \hfill Chicago, IL  
+Clinical Psychology Department, Loyola University Chicago \hfill September 2017 - May 2018  
+
+* Organize and plan colloquia for clinical psychology students.
+
+# TECHNICAL AND SCIENTIFIC SKILLS
+\textbullet Statistical/data management software & programming (R, SPSS).  
+\textbullet Typesetting software (Markdown, \LaTeX).  
+\textbullet Medical electronic record systems (Epic, Powerchart).  
+\textbullet Microsoft office suite (Word, Powerpoint, Excel).  
+\textbullet Online survey software (e.g., Qualtrics, Surveymonkey, Opinio).  
+\textbullet Electroencephalography system use and data analysis (Biosemi & BESA).  
+\textbullet Psychological experiment software programming (E-Prime).
