@@ -171,15 +171,24 @@ $endfor$
 \sectionfont{\rmfamily\mdseries\large\bf}
 \subsectionfont{\rmfamily\mdseries\normalsize\scshape}
 
+\usepackage{enumitem}
+
+%\setlist{nolistsep}
+%   \begin{itemize}[noitemsep]
+%        \item one
+%        \item two
+%        \item three
+%    \end{itemize}
+%\end{document}
 
 % Make lists without bullets
-\renewenvironment{itemize}{
-  \begin{list}{}{
-    \setlength{\leftmargin}{1.5em}
-  }
-}{
-  \end{list}
-}
+%\renewenvironment{itemize}{
+%  \begin{list}{}{
+%    \setlength{\leftmargin}{1.5em}
+%  }
+%}{
+%  \end{list}
+%}
 
 
 % Make parskips rather than indent with lists.

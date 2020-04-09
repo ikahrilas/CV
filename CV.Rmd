@@ -33,12 +33,12 @@ Master's Thesis: The Neurobiological Correlates of Savoring
 B.S., Psychology  \hfill Cumulative GPA: 3.96  
 
 # AWARDS & HONORS
-**•**Loyola University Chicago Thesis of the Year Award in the Social Sciences ($300).  
-**•**2018 Kobler Travel Award ($400).  
-**•**2017 Heckler Fellowship Award ($3,000).  
-**•**Graduate Merit Tuition Scholarship, Loyola University Chicago: August 2016 - Present.  
-**•**Emanuel Donchin Award for outstanding undergraduate research assistant in cognitive neuroscience.  
-**•**UIUC Dean’s List: Fall 2011, Spring 2012, Fall 2012, Spring 2013, Fall 2013, Spring 2014.  
+\textbullet Loyola University Chicago Thesis of the Year Award in the Social Sciences ($300).  
+\textbullet 2018 Kobler Travel Award ($400).  
+\textbullet 2017 Heckler Fellowship Award ($3,000).  
+\textbullet Graduate Merit Tuition Scholarship, Loyola University Chicago: August 2016 - Present.  
+\textbullet Emanuel Donchin Award for outstanding undergraduate research assistant in cognitive neuroscience.  
+\textbullet UIUC Dean’s List: Fall 2011, Spring 2012, Fall 2012, Spring 2013, Fall 2013, Spring 2014.  
 
 # PUBLICATIONS
 \begingroup
@@ -158,62 +158,62 @@ Supervisors: Scott Leon, Ph.D. & Jerry Wagner, Ph.D.
 Loyola University Chicago \hfill August 2019 - December 2019  
 Course: Statistics
 
-* •Designed syllabus and curriculum. Delivered weekly lectures. Evaluated student coursework and performance. Mentored and assisted students.  
+* Designed syllabus and curriculum. Delivered weekly lectures. Evaluated student coursework and performance. Mentored and assisted students.  
 
 *Graduate Student Supervisor* \hfill Chicago, IL  
 Department of Clinical Psychology, Loyola University Chicago \hfill September 2017 - November 2019  
 Supervisors: Scott Leon, Ph.D. & Maryse Richards, Ph.D.
 
-* •Supervised first- and second-year clinical psychology graduate students in developing clinical interviewing and case conceptualization skills. Reviewed mock intake and therapy sessions, evaluated clinical reports, and provided written and verbal feedback.
-* •Delivered feedback to a second-year student on the development of supervisory skills. Received feedback on supervision skills from faculty supervisor.
+* Supervised first- and second-year clinical psychology graduate students in developing clinical interviewing and case conceptualization skills. Reviewed mock intake and therapy sessions, evaluated clinical reports, and provided written and verbal feedback.
+* Delivered feedback to a second-year student on the development of supervisory skills. Received feedback on supervision skills from faculty supervisor.
 
 *Instructor* \hfill Chicago, IL  
 Loyola University Chicago Pre-College Summer Scholars Program \hfill June 2018 & July 2019  
 Course: Introduction to Data Science with R
 
-* •Introductory course for programming, data visualization, data management/ manipulation, and statistical procedures in the R language.
+* Introductory course for programming, data visualization, data management/ manipulation, and statistical procedures in the R language.
 
 *Graduate Student Teaching Assistant* \hfill Chicago, IL  
 Psychology Department, Loyola University Chicago \hfill January 2019 - December 2019  
 Supervisor: Lawrence Behmer, Ph.D.  
 Courses: Statistics
 
-* •Graded exams and bi-weekly homework assignments.
+* Graded exams and bi-weekly homework assignments.
 
 *Graduate Student Teaching Assistant* \hfill Chicago, IL  
 Psychology Department, Loyola University Chicago  \hfill January 2019 - May 2019  
 Supervisor: Eric Gobel, Ph.D.  
 Courses: Learning & Behavior  
 
-* •Administered and graded assignments and exams.
-* •Calculated grades.
-* •Held weekly office hours.
+* Administered and graded assignments and exams.
+* Calculated grades.
+* Held weekly office hours.
 
 *Graduate Student Teaching Assistant* \hfill Chicago, IL  
 Psychology Department, Loyola University Chicago \hfill August 2018 - December 2018  
 Supervisor: Robert Morrison, Ph.D.  
 Courses: Neuroscience & Psychology of Creativity
 
-* •Administered and graded assignments and exams.
-* •Calculated grades.
-* •Graded weekly discussion questions and blog posts.
-* •Disseminated information regarding weekly neuroscience seminars.
+* Administered and graded assignments and exams.
+* Calculated grades.
+* Graded weekly discussion questions and blog posts.
+* Disseminated information regarding weekly neuroscience seminars.
 
 *Graduate Student Teaching Assistant* \hfill Chicago, IL  
 Psychology Department, Loyola University Chicago \hfill September 2016 - May 2017  
 Supervisor: Richard Bowen, Ph.D.  
 Course: Introduction to Psychology  
 
-* •Administered and graded assignments and exams.
-* •Calculated grades.
+* Administered and graded assignments and exams.
+* Calculated grades.
 
 *Graduate Student Teaching Assistant* \hfill Chicago, IL  
 Psychology Department, Loyola University Chicago \hfill September 2016 - May 2017  
 Supervisor: Jerome Wagner, Ph.D.  
 Courses: Learning and Behavior, Psychology of Personality
 
-* •Administered and graded assignments and exams.
-* •Calculated grades.
+* Administered and graded assignments and exams.
+* Calculated grades.
 
 # PROFESSIONAL AFFILIATIONS
 Society for Psychophysiological Research (SPR) \hfill APA Division 40, Society for Clinical Neuropsychology  
@@ -225,33 +225,33 @@ American Psychological Association (APA)
 *Technology Committee* \hfill Chicago, IL  
 Clinical Psychology Department, Loyola University Chicago \hfill September 2019 - Present  
 
-* •Administer bi-annual program survey.
-* •Disseminate survey data to students, alum, and faculty.
-* •Act as liaison between technology and information committees.
+* Administer bi-annual program survey.
+* Disseminate survey data to students, alum, and faculty.
+* Act as liaison between technology and information committees.
 
 *Information Committee* \hfill Chicago, IL  
 Clinical Psychology Department, Loyola University Chicago \hfill September 2018 - Present  
 
-* •Co-edit annual newsletter.
-* •Disseminate program information.
-* •Update program website.
+* Co-edit annual newsletter.
+* Disseminate program information.
+* Update program website.
 
 *Graduate Student Advisory Council* \hfill Chicago, IL  
 Clinical Psychology Department, Loyola University Chicago \hfill September 2017 - May 2018  
 
-* •Attend bimonthly meetings with faculty.
-* •Organize graduate student research symposium and fundraisers.
+* Attend bimonthly meetings with faculty.
+* Organize graduate student research symposium and fundraisers.
 
 *Chair: Colloquium Committee* \hfill Chicago, IL  
 Clinical Psychology Department, Loyola University Chicago \hfill September 2017 - May 2018  
 
-* •Organize and plan colloquia for clinical psychology students.
+* Organize and plan colloquia for clinical psychology students.
 
 # TECHNICAL AND SCIENTIFIC SKILLS
-•Statistical/data management software & programming (R, SPSS).  
-•Typesetting software (Markdown, \LaTeX).  
-•Medical electronic record systems (Epic, Powerchart).  
-•Microsoft office suite (Word, Powerpoint, Excel).  
-•Online survey software (e.g., Qualtrics, Surveymonkey, Opinio).  
-•Electroencephalography system use and data analysis (Biosemi & BESA).  
-•Psychological experiment software programming (E-Prime).
+\textbullet Statistical/data management software & programming (R, SPSS).  
+\textbullet Typesetting software (Markdown, \LaTeX).  
+\textbullet Medical electronic record systems (Epic, Powerchart).  
+\textbullet Microsoft office suite (Word, Powerpoint, Excel).  
+\textbullet Online survey software (e.g., Qualtrics, Surveymonkey, Opinio).  
+\textbullet Electroencephalography system use and data analysis (Biosemi & BESA).  
+\textbullet Psychological experiment software programming (E-Prime).
