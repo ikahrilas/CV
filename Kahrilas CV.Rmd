@@ -1,7 +1,7 @@
 ---
 title: "CV"
 author: "Ian J. Kahrilas"
-email: ikahrilas@luc.edu
+email: ian.kahrilas@gmail.com
 phone: "(847) 209-1217"
 output:
   pdf_document:
@@ -52,9 +52,9 @@ Psychology
 \textbullet \hspace{.5mm} Graduate Merit-Based Research Assistantship, \hfill 2016 - Present\
 \hspace{3.7mm} Loyola University Chicago\
 \textbullet \hspace{.5mm} Graduate Travel Award, Loyola University Chicago \hfill 2016 - Present\
+\textbullet \hspace{.5mm} Kobler Travel Award ($400) \hfill 2018, 2019\
 \textbullet \hspace{.5mm} Loyola University Chicago Thesis of the Year Award in the \hfill 2018\
 \hspace{3.7mm} Social Sciences ($300)\
-\textbullet \hspace{.5mm} Kobler Travel Award ($400) \hfill 2018, 2019  
 \textbullet \hspace{.5mm} Heckler Fellowship Award ($3,000) \hfill 2017\
 \textbullet \hspace{.5mm} Emanuel Donchin Award for outstanding undergraduate research \hfill 2014\
 \hspace{3.7mm} assistant in cognitive neuroscience\
@@ -70,7 +70,7 @@ Edward Hines, Jr. VA Hospital, Hines, IL\
 Supervisor: David Kinsinger, Ph.D,., ABPP-CN
 \vspace{-2.5mm}
 
-* Conduct outpatient neuropsychological testing using a flexible battery approach with a veteran population in face-to-face and virtual modalities.
+* Conduct outpatient neuropsychological testing using a flexible battery approach with a veteran population in face-to-face and telehealth modalities.
 * Presenting concerns include traumatic brain injury, substance use disorder, posttraumatic stress disorder, dementia, stroke, and medically-related cognitive impairment.
 * Conduct semi-structured clinical interviews with clients and family members, complete integrated reports based on neuropsychological assessment, medical record review, and clinical interview.
 * Receive weekly individual supervision and bi-weekly group supervision.
@@ -82,7 +82,7 @@ University of Illinois at Chicago, Department of Psychiatry, Chicago, IL\
 Supervisor: Jennifer Duffecy, Ph.D.
 \vspace{-2.5mm}
 
-* Provide long-term, weekly individual psychotherapy for adults from diverse cultural and socioeconomic backgrounds using a primarily cognitive-behavioral approach in face-to-face and virtual modalities.
+* Provide long-term, weekly individual psychotherapy for adults from diverse cultural and socioeconomic backgrounds using a primarily cognitive-behavioral approach in face-to-face and telehealth modalities.
 * Presenting concerns included anxiety, panic, depression, bipolar, and phobias.
 * Treated population with comorbid health conditions, such as Epstein's Anamoly, idiopathic hypersomnia, ulcerative colitis, and cognitive concerns.
 * Received weekly individual supervision.
@@ -139,7 +139,7 @@ Supervisors: Courtney Dirksen, Ph.D. & Maribel Serrato, Psy.D.
 * Wrote behavioral observations to be used in neuropsychological reports.
 
 **Stress Management Peer** \hfill August 2012 - December 2012\
-*Stress Management Peers*
+*Stress Management Peers*\
 University of Illinois at Urbana-Champaign, Urbana-Champaign, IL
 \vspace{-2.5mm}
 
@@ -172,6 +172,15 @@ Silton, R.L., **Kahrilas, I.J.**, Skymba, H.V., Bryant, F.B., & Heller, W. (2020
 Rainey, V.R., Stockdale, L., Flores-Lamb, V., Mullins, T.K., Gjorgieva, E., **Kahrilas, I.J.**, Morrison, R.G., & Silton, R.L. (under review). Monolingual and bilingual cognitive control differences on a color-word Stroop task. 
 \endgroup
 
+\underline{\textbf{Invited Manuscripts}}
+
+\begingroup
+\setlength{\parindent}{-0.5in}
+\setlength{\leftskip}{0.5in}
+\setlength{\parskip}{8pt}
+**Kahrilas, I.J.**, Rauch, A., Miller, G.A., & Silton, R.L. (invited manuscript). Replicability and transparency in ERP research: Guidelines and recommendations. *International Journal of Psychophysiology*.
+\endgroup
+
 \underline{\textbf{Manuscripts in Preparation}}
 
 \begingroup
@@ -186,8 +195,6 @@ Alexander, R., Aragon, O., Bookwala, J., Cherbuin, N., Gatt, J.M., **Kahrilas, I
 **Kahrilas, I.J.**, Conley, C.S., Silton, R.L. (in preparation). The neural correlates of emotion reactivity in depression.
 
 **Kahrilas, I.J.**, Conley, C.S., Silton, R.L. (in preparation). Positively mindful: Changes in positive emotion reactivity after eight weeks of Headspace.
-
-**Kahrilas, I.J.**, Rauch, A., Miller, G.A., & Silton, R.L. (in preparation). Replicability and transparency in ERP research: Guidelines and recommendations. *International Journal of Psychophysiology*.
 
 Polnaszek, K.L., Murray, C.B., **Kahrilas, I.J.**, Bohnert, A., Tu, F.F., Hellman, K.M., Silton, R.L. (in preparation). Chronic pain and inhibitory control in young adults: The explanatory role of psychological symptoms.
 
@@ -256,7 +263,7 @@ Ballou, S., Quinton, S., **Kahrilas, I.**, Lackner, J., Keefer, L. (2014). Impai
 **Kahrilas, I.J.** (2018, March). *Case presentation and formulation for sexuality, sexual identifiy, and coming out*. Presentation at Loyola University Chicago, Chicago, IL. 
 
 \endgroup
-
+\endgroup
 # RESEARCH EXPERIENCE
 \vspace{-\baselineskip}
 \hrulefill
@@ -279,8 +286,8 @@ Principal Investigator: Rebecca Levin Silton, Ph.D.
 * Develop expertise in psychological experimental paradigm software (E-Prime) and open-source programming languages (R, Python)
 
 **Graduate Research Assistant** \hfill August 2018 - May 2019\   
-*Cognitive and Affective Neuroscience Lab* 
-Loyola University Chicago, Chicago, IL
+*Cognitive and Affective Neuroscience Lab*\
+Loyola University Chicago, Chicago, IL\
 Principal Investigator: Robert Morrison, Ph.D.  
 \vspace{-.25mm}
 
@@ -293,7 +300,7 @@ Principal Investigator: Robert Morrison, Ph.D.
 
 **Research Assistant** \hfill May 2012 -  August 2014\
 *Center for Psychosocial Research in GI*    
-Northwestern University Feinberg School of Medicine
+Northwestern University Feinberg School of Medicine\
 Principal Investigator: Laurie Keefer, Ph.D.
 \vspace{-.25mm}
 
@@ -303,9 +310,9 @@ Principal Investigator: Laurie Keefer, Ph.D.
 * Contacted and scheduled participants for research participation.
 * Screened potential research participants and obtained consent for research participation.
 
-**Undergraduate Research Assistant** \hfill August 2013 - May 2014  
-*Social, Cognitive, Personality, and Emotional Neuroscience Lab*
-University of Illinois at Urbana-Champaign, Champaign, IL   
+**Undergraduate Research Assistant** \hfill August 2013 - May 2014\
+*Social, Cognitive, Personality, and Emotional Neuroscience Lab*\
+University of Illinois at Urbana-Champaign, Champaign, IL\
 Principal Investigator: Florin Dolcos, Ph.D.  
 \vspace{-.25mm}
 
@@ -329,7 +336,7 @@ Loyola University Chicago, Chicago, IL
 * Evaluated student coursework and performance. 
 * Mentored and assisted students.  
 
-**Graduate Student Research Mentor** \hfill 2018 - 2019; 2020 - Present\
+**Graduate Student Research Mentor** \hfill 2018 - 2019, 2020 - Present\
 *Loyola Undergraduate Research Opportunities Program (LUROP)*\
 Loyola University Chicago, Chicago IL
 \vspace{-2.5mm}
