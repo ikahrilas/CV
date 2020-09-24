@@ -82,21 +82,20 @@ University of Illinois at Chicago, Department of Psychiatry, Chicago, IL\
 Supervisor: Jennifer Duffecy, Ph.D.
 \vspace{-2.5mm}
 
-* Provide long-term, weekly individual psychotherapy for adults from diverse cultural and socioeconomic backgrounds using a primarily cognitive-behavioral approach in face-to-face and telehealth modalities.
-* Presenting concerns included anxiety, panic, depression, bipolar, and phobias.
-* Treated population with comorbid health conditions, such as Epstein's Anamoly, idiopathic hypersomnia, ulcerative colitis, and cognitive concerns.
+* Provided long-term, weekly individual psychotherapy for adults from diverse cultural and socioeconomic backgrounds using a primarily cognitive-behavioral approach in face-to-face and telehealth modalities.
+* Presenting concerns included anxiety, panic, depression, bipolar, and phobias. Patients also presented with comorbid health conditions, such as Epstein's Anamoly, idiopathic hypersomnia, ulcerative colitis, and cognitive concerns.
 * Received weekly individual supervision.
 * Consulted with health professionals and applied relevant behavioral and cognitive strategies.
 
 **Adult Neuropsychology Extern** \hfill July 2018 - July 2019\
 *Adult Neuropsychology Service*\
-NorthShore University HealthSystem & Evanston Hopsital, Evanston, IL\
+NorthShore University HealthSystem & Evanston Hospital, Evanston, IL\
 Supervisors: Leslie Guidotti-Breting, Ph.D., ABPP-CN, Elizabeth Geary, Ph.D., ABPP-CN, & Jerry Sweet, Ph.D., ABPP-CN
 \vspace{-2.5mm}
 
 * Conducted neuropsychological assessments utilizing a flexible battery approach with a culturally diverse adult outpatient and inpatient population (ages 18 to 90+).
 * Presenting concerns included dementia, stroke, traumatic brain injury, concussion, epilepsy, learning disorders, attention-deficit hyperactivity disorder, psychiatric disorders, autism spectrum disorders, and neurological disorders (e.g., normal pressure hydrocephalus, pachymeningitis).
-* Conduct pre- and post-surgical candidacy evaluations for adults pursuing bariatric, left ventricular assist device (LVAD), and shunt surgeries.
+* Conducted pre- and post-surgical candidacy evaluations for adults pursuing bariatric, left ventricular assist device (LVAD), and shunt surgeries.
 * Received weekly individual and group supervision in planning test selection, implementing, interpreting, writing, and communicating results of neuropsychological evaluations.
 * Wrote neuropsychological reports synthesizing information gathered in testing and clinical interview.
 * Attended didactic conferences and seminars devoted to topics in neurology, neuropsychology, and neuroanatomy.
@@ -169,6 +168,9 @@ Silton, R.L., **Kahrilas, I.J.**, Skymba, H.V., Bryant, F.B., & Heller, W. (2020
 \setlength{\parindent}{-0.5in}
 \setlength{\leftskip}{0.5in}
 \setlength{\parskip}{8pt}
+Alexander, R., Aragon, O., Bookwala, J., Cherbuin, N., Gatt, J.M., **Kahrilas, I.J.**,  Kastener, N., Lawrence, A., Lowe, L., Morrison, R.G., Mueller, S.C., Papadelis, C., Polnaszek, K.L., Richter, S.H., Silton, R.L., & Styliadis, C. (revise & resubmit). The neuroscience of positive emotions and affect: Implications for promoting happiness and wellbeing.  
+*authorship is alphabetical  
+
 Rainey, V.R., Stockdale, L., Flores-Lamb, V., Mullins, T.K., Gjorgieva, E., **Kahrilas, I.J.**, Morrison, R.G., & Silton, R.L. (under review). Monolingual and bilingual cognitive control differences on a color-word Stroop task. 
 \endgroup
 
@@ -187,8 +189,7 @@ Rainey, V.R., Stockdale, L., Flores-Lamb, V., Mullins, T.K., Gjorgieva, E., **Ka
 \setlength{\parindent}{-0.5in}
 \setlength{\leftskip}{0.5in}
 \setlength{\parskip}{8pt}
-Alexander, R., Aragon, O., Bookwala, J., Cherbuin, N., Gatt, J.M., **Kahrilas, I.J.**,  Kastener, N., Lawrence, A., Lowe, L., Morrison, R.G., Mueller, S.C., Papadelis, C., Polnaszek, K.L., Richter, S.H., Silton, R.L., & Styliadis, C. (revise & resubmit). Happiness and wellbeing: A review of human and animal research.  
-*authorship is alphabetical  
+Dickson, D.A., Lee, C., **Kahrilas, I.J.**, & Silton, R.L. (in preparation). Positive affectivity distinctly influences negative interpretation bias in individuals with remitted depression.
 
 **Kahrilas, I.J.**, Bryant, F.B., Miller, G.A., & Silton, R.L. (in preparation). The neural correlates of positive emotion reactivity and regulation.
 
@@ -196,9 +197,12 @@ Alexander, R., Aragon, O., Bookwala, J., Cherbuin, N., Gatt, J.M., **Kahrilas, I
 
 **Kahrilas, I.J.**, Conley, C.S., Silton, R.L. (in preparation). Positively mindful: Changes in positive emotion reactivity after eight weeks of Headspace.
 
-Polnaszek, K.L., Murray, C.B., **Kahrilas, I.J.**, Bohnert, A., Tu, F.F., Hellman, K.M., Silton, R.L. (in preparation). Chronic pain and inhibitory control in young adults: The explanatory role of psychological symptoms.
+Marder, A., Toussaint, F., Heller, W., **Kahrilas, I.J.**, Kritikos, T., Mukherjee, S., Polnaszek K.L., Rauch A., Roth G., Santiago C., Silton, R.L., Walker, A. (in preparation). Finding joy in dark times.
+*authorship is alphabetical
 
-Silton, R.L., Polnaszek, K.L., **Kahrilas, I.J.**, Dickson, D.A., Miller, G.A., & Heller, W. (revise & resubmit). Low positive affect is associated with reduced prefrontal cortical activity in remitted depression.
+Polnaszek, K.L., **Kahrilas, I.J.**, Sass, T., Miller, G.A., Heller, W., & Silton, R.L. (in preparation). Anxious arousal and anxious apprehension are distinctly related to the temporal course of response inhibition.
+
+Polnaszek, K.L., Murray, C.B., **Kahrilas, I.J.**, Bohnert, A., Tu, F.F., Hellman, K.M., Silton, R.L. (in preparation). Chronic pain and inhibitory control in young adults: The explanatory role of psychological symptoms.
 
 \endgroup
 
@@ -231,7 +235,7 @@ Polnaszek, K.L., **Kahrilas I.J.**, Murray, C., Bohnert A., Hellman K.M., Tu, F.
 
 Polnaszek, K.L., **Kahrilas, I.J.**, Bates, C., Bohnert, A., Hellman, K.M., Tu, F.F., & Silton, R.L. (2018, February). Inhibitory control and psychological symptoms influence pain symptomatology in emerging adults. Poster session presented at International Neuropsychological Society (INS), Washington, D.C.
 
-Domokos, F.E., Polnaszek, K.L., **Kahrilas, I.J.**, Bryant, F.B., Tu, F.F., Hellman, K.M., & Silton, R.L. (2017, April). Savoring past and present positive events boosts positive affect for individuals with pain symptoms. Poster sesssion presented at the Midwestern Psychological Association Annual Meeting, Chicago, IL
+Domokos, F.E., Polnaszek, K.L., **Kahrilas, I.J.**, Bryant, F.B., Tu, F.F., Hellman, K.M., & Silton, R.L. (2017, April). Savoring past and present positive events boosts positive affect for individuals with pain symptoms. Poster session presented at the Midwestern Psychological Association Annual Meeting, Chicago, IL
 
 **Kahrilas, I.J.**, Bryant, F.B., Kais, L.A., Domokos, F.E., & Silton, R.L. (2017, April). Savoring the moment distinctly mediates the relationship between affect and depression. Poster session presented at Society for Affective Science (SAS), Boston, MA.
 
@@ -241,16 +245,18 @@ Keefer, L., Craft, J., Dowjotas, K., **Kahrilas, I. J.**, Roman, S., Pandolfino,
 
 Quinton, S., **Kahrilas, I. J.**, Kassam, A., Srivastava, A.K., Komanduri, S., & Keefer, L. (2014). When the diagnosis is pancreatic cancer: an analysis of coping strategies among endosonographers. Gastrointestinal Endoscopy, 79(5), AB309.
 
-Quinton, S., Srivastava, A.K., **Kahrilas, I. J.**, Keefer, L., Komanduri, S. (2014). "Breaking the bad news:" A survey of pracice patterns in disclosing a pancreatic cancer diagnosis among US endosonographers. Gastrointestinal Endoscopy, 79(5), AB193.
+Quinton, S., Srivastava, A.K., **Kahrilas, I. J.**, Keefer, L., Komanduri, S. (2014). "Breaking the bad news:" A survey of practice patterns in disclosing a pancreatic cancer diagnosis among US endosonographers. Gastrointestinal Endoscopy, 79(5), AB193.
 
 Ballou, S., Quinton, S., **Kahrilas, I.**, Lackner, J., Keefer, L. (2014). Impairment of daily activities in young adult women with Irritable Bowel syndrome. Annals of Behavioral Medicine, 47, S33.
 
-# INVITED LECTURES
+# INVITED TALKS & LECTURES
 \vspace{-\baselineskip}
 \hrulefill
 \vspace{-.7\baselineskip}
 
-**Kahrilas, I.J.** (2021, May). *The Neural Correlates of Positive Emotion Reactivity and Regulation in Depression*. Invited seminar talk at Loyola University Chicago's Department of Neuroscience, Chicago, IL.
+**Kahrilas, I.J.** (2021, May). *The neural correlates of positive emotion reactivity and regulation in depression*. Invited seminar talk at Loyola University Chicago's Department of Neuroscience, Chicago, IL.
+
+**Kahrilas, I.J.** (2017, 2018, 2019, & 2020). *Career paths in clinical psychology*. Invited professional panel speaker in Loyola University Chicago's undergraduate psychology internship course, Chicago, IL.
 
 **Kahrilas, I.J.** (2019, May). *Case presentation on frontotemporal dementia (FTD): Patient with behavioral variant FTD*. Presentation at NorthShore University HealthSystem, Evanston, IL.
 
@@ -260,7 +266,7 @@ Ballou, S., Quinton, S., **Kahrilas, I.**, Lackner, J., Keefer, L. (2014). Impai
 
 **Kahrilas, I.J.** (2018, April). *Case presentation and formulation for adjustment disorder*. Presentation at Loyola University Chicago, Chicago, IL.
 
-**Kahrilas, I.J.** (2018, March). *Case presentation and formulation for sexuality, sexual identifiy, and coming out*. Presentation at Loyola University Chicago, Chicago, IL. 
+**Kahrilas, I.J.** (2018, March). *Case presentation and formulation for sexuality, sexual identity, and coming out*. Presentation at Loyola University Chicago, Chicago, IL. 
 
 \endgroup
 \endgroup
@@ -279,11 +285,11 @@ Principal Investigator: Rebecca Levin Silton, Ph.D.
 * Design, oversee, and collect data for study investigating how neural correlates of positive and negative emotion regulation vary as a function of individual differences.
 * Contribute to design, launch, and coordination of randomized controlled trial investigating the effectiveness of an eight-week mindfulness intervention on reducing depressive symptomatology and modifying individual differences and neural correlates pertaining to emotion reactivity and regulation in college students with elevated depression.
 * Organize task assignments and mentored team of research assistants.
-* Present and co-author conference presentation and talks at international conferences (e.g., Society for Affective Science annual meeting, Society for Research in Psychopathology annual meeting).
+* Present and co-author conference presentation and talks at international conferences (e.g., Society for Affective Science annual meeting, Society for Psychophysiological Research, Society for Research in Psychopathology annual meeting).
 * Author and co-author peer-reviewed manuscripts and grant applications.
 * Write Institutional Review Board applications.
 * Supervise and mentor undergraduate independent research projects.
-* Develop expertise in psychological experimental paradigm software (E-Prime) and open-source programming languages (R, Python)
+* Develop expertise in psychological experimental paradigm software (E-Prime) and open-source programming languages (R, Python).
 
 **Graduate Research Assistant** \hfill August 2018 - May 2019\   
 *Cognitive and Affective Neuroscience Lab*\
@@ -291,7 +297,7 @@ Loyola University Chicago, Chicago, IL\
 Principal Investigator: Robert Morrison, Ph.D.  
 \vspace{-.25mm}
 
-* Investigated neural correlates of cognitive ability in "super ager" population using EEG methods, such as source analysis.
+* Investigated neural correlates of cognitive ability in "super-ager" population using EEG methods, such as source analysis.
 * Ran and oversaw research projects.
 * Programmed and developed EEG experimental paradigms.
 * Ran statistical analyses.
@@ -302,7 +308,7 @@ Principal Investigator: Robert Morrison, Ph.D.
 *Center for Psychosocial Research in GI*    
 Northwestern University Feinberg School of Medicine\
 Principal Investigator: Laurie Keefer, Ph.D.
-\vspace{-.25mm}
+\vspace{-2.5mm}
 
 * Assisted with data entry & organization for the Irritable Bowel Syndrome Outcome Study (IBSOS).
 * Composed blog articles for CPRGI website about the stress response’s effect on gastrointestinal function and the importance of colon cancer screening.
@@ -331,22 +337,17 @@ Principal Investigator: Florin Dolcos, Ph.D.
 Loyola University Chicago, Chicago, IL
 \vspace{-2.5mm}
 
-* Designed syllabus and curriculum. 
-* Delivered weekly lectures in face-to-face and online formats. 
+* Designed syllabus and curriculum for face-to-face and online formats. 
+* Delivered weekly lectures. 
 * Evaluated student coursework and performance. 
 * Mentored and assisted students.  
 
-**Graduate Student Research Mentor** \hfill 2018 - 2019, 2020 - Present\
+**Graduate Student Research Mentor** \hfill 2018 - Present\
 *Loyola Undergraduate Research Opportunities Program (LUROP)*\
 Loyola University Chicago, Chicago IL
 \vspace{-2.5mm}
 
 * Supervised undergraduate students' Senior Thesis projects (Provost Fellowship & Mulcahy Scholars Program), hypothesis generation, literature review, study design, data analysis, manuscript and report writing, and presentations.
-
-**Invited Professional Panel Speaker** \hfill Fall 2017, 2018, 2019, & 2020\
-*Internship in Psychology*\
-Instructor: Colleen Conley, Ph.D.
-Loyola University Chicago, Chicago, IL
 
 **Peer Supervisor** \hfill July 2019 - July 2020\
 NorthShore University HealthSystem\
@@ -399,7 +400,7 @@ Instructor: Eric Gobel, Ph.D.
 
 Course: Neuroscience \hfill August 2018 - December 2018\
 Instructor: Robert Morrison, Ph.D.
-\vspace{-.25mm}
+\vspace{-2.5mm}
 
 * Administered and graded assignments and exams.
 * Calculated grades.
@@ -442,7 +443,7 @@ Instructor: Jerome Wagner, Ph.D.
 
 \underline{\textbf{Committee Membership}}
 
-**Clinical Graduate Student Technology Committee**, \hfill September 2019 - Present\
+**Clinical Graduate Student Technology Committee** \hfill September 2019 - Present\
 Loyola University Chicago   
 
 **Clinical Graduate Student Information Committee** \hfill September 2018 - Present\
@@ -454,7 +455,7 @@ Clinical Psychology Department, Loyola University Chicago
 **Clinical Colloquium Committee**, *Chair* \hfill September 2017 - May 2018\
 Loyola University Chicago   
 
-\underline{\textbf{Ad Hoc Mansucript Reviews}}
+\underline{\textbf{Ad Hoc Manuscript Reviews}}
 
 Reviewer, *Journal of Personality* \hfill March 2020 - July 2020\
 Co-Reviewer, *Journal of Adolescence* \hfill August 2019\
