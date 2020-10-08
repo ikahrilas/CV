@@ -83,7 +83,7 @@ Supervisor: Jennifer Duffecy, Ph.D.
 \vspace{-2.5mm}
 
 * Provided long-term, weekly individual psychotherapy for adults from diverse cultural and socioeconomic backgrounds using a primarily cognitive-behavioral approach in face-to-face and telehealth modalities.
-* Presenting concerns included anxiety, panic, depression, bipolar, and phobias. Patients also presented with comorbid health conditions, such as Epstein's Anomaly, idiopathic hypersomnia, ulcerative colitis, and cognitive concerns.
+* Presenting concerns included anxiety, panic, depression, bipolar, and phobias. Patients also presented with comorbid health conditions, such as Ebstein's Anomaly, idiopathic hypersomnia, ulcerative colitis, and cognitive concerns.
 * Received weekly individual supervision.
 * Consulted with health professionals and applied relevant behavioral and cognitive strategies.
 
@@ -467,10 +467,10 @@ Co-Reviewer, *Journal of Experimental Child Psychology* \hfill December 2017
 \hrulefill
 \vspace{-.7\baselineskip}
 Society for Psychophysiological Research (SPR)\
+American Psychological Association (APA) Graduate Student Affiliate\
 APA Division 12, Clinical Psychology\
 APA Division 40, Society for Clinical Neuropsychology\
 Cognitive Neuroscience Society (CNS)\
 Society for Affective Science (SAS)\
 International Neuropsychological Society (INS)\
 Society for Research in Psychopathology (SRP)\
-American Psychological Association (APA)
