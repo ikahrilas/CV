@@ -68,10 +68,10 @@ Psychology
 **Advanced Neuropsychology Extern** \hfill July 2020 - Present\
 *Psychology Service*\
 Edward Hines, Jr. VA Hospital, Hines, IL\
-Supervisor: David Kinsinger, Ph.D,., ABPP-CN
+Supervisor: David Kinsinger, Ph.D., ABPP-CN
 \vspace{-2.5mm}
 
-* Conduct outpatient neuropsychological testing using a flexible battery approach with a veteran population in face-to-face and telehealth modalities.
+* Conduct outpatient neuropsychological testing using a flexible battery approach with a Veteran population in face-to-face and telehealth modalities.
 * Presenting concerns include traumatic brain injury, substance use disorder, posttraumatic stress disorder, dementia, stroke, and medically-related cognitive impairment.
 * Conduct semi-structured clinical interviews with clients and family members, complete integrated reports based on neuropsychological assessment, medical record review, and clinical interview.
 * Receive weekly individual supervision and bi-weekly group supervision.
@@ -84,9 +84,9 @@ Supervisor: Jennifer Duffecy, Ph.D.
 \vspace{-2.5mm}
 
 * Provided long-term, weekly individual psychotherapy for adults from diverse cultural and socioeconomic backgrounds using a primarily cognitive-behavioral approach in face-to-face and telehealth modalities.
-* Presenting concerns included anxiety, panic, depression, bipolar, and phobias. Patients also presented with comorbid health conditions, such as Ebstein's Anomaly, idiopathic hypersomnia, ulcerative colitis, and cognitive concerns.
+* Presenting concerns included anxiety, panic, depression, bipolar, and phobias. Patients also presented with comorbid medical conditions, such as Ebstein's Anomaly, idiopathic hypersomnia, and ulcerative colitis.
 * Received weekly individual supervision.
-* Consulted with health professionals and applied relevant behavioral and cognitive strategies.
+* Consulted with medical professionals and applied relevant behavioral and cognitive strategies.
 
 **Adult Neuropsychology Extern** \hfill July 2018 - July 2019\
 *Adult Neuropsychology Service*\
@@ -110,7 +110,7 @@ Supervisors: Scott Leon, Ph.D., Jerome Wagner, Ph.D., Daniel Keller, Ph.D., Dian
 
 * Provided brief individual psychotherapy (eight sessions) to undergraduate students using CBT, ACT, and IPT approaches. Presenting problems included mood disorders, trauma, relationship concerns, and grief.
 * Conducted intake interviews, designed and implemented intervention plans, provided crisis management, and consulted with other therapists, psychiatrists, and nutritionists.
-* Co-facilitated two eight-week mindfulness-based cognitive therapy groups for students with mood disorders.
+* Co-facilitated three eight-week mindfulness-based cognitive therapy groups for students with mood disorders.
 * Received weekly individual and group supervision and participated in weekly didactic training.
 
 # RELATED CLINICAL EXPERIENCE
@@ -144,7 +144,7 @@ University of Illinois at Urbana-Champaign, Urbana-Champaign, IL
 \vspace{-2.5mm}
 
 * Conducted stress-management workshops for various groups on campus.
-* Collaborated with university health center to disseminate information and resources regarding mental health.
+* Collaborated with university health center to disseminate mental health information and resources.
 
 # PUBLICATIONS AND PRESENTATIONS
 \vspace{-\baselineskip}
@@ -190,8 +190,6 @@ Rainey, V.R., Stockdale, L., Flores-Lamb, V., Mullins, T.K., Gjorgieva, E., **Ka
 \setlength{\parindent}{-0.5in}
 \setlength{\leftskip}{0.5in}
 \setlength{\parskip}{8pt}
-Dickson, D.A., Lee, C., **Kahrilas, I.J.**, & Silton, R.L. (in preparation). Positive affectivity distinctly influences negative interpretation bias in individuals with remitted depression.
-
 **Kahrilas, I.J.**, Bryant, F.B., Miller, G.A., & Silton, R.L. (in preparation). The neural correlates of positive emotion reactivity and regulation.
 
 **Kahrilas, I.J.**, Conley, C.S., Silton, R.L. (in preparation). The neural correlates of emotion reactivity in depression.
@@ -290,11 +288,11 @@ Loyola University Chicago, Chicago, IL\
 Principal Investigator: Robert Morrison, Ph.D.  
 \vspace{-.25mm}
 
-* Investigated neural correlates of cognitive ability in "super-ager" population using EEG methods, such as source analysis.
-* Ran and oversaw research projects.
+* Investigated neural correlates of cognitive ability in "super-ager" population using EEG methods (i.e., event-related potentials & source analysis).
+* Managed research projects.
 * Programmed and developed EEG experimental paradigms.
-* Ran statistical analyses.
-* Administered experimental protocol to participants and cleaned data for EEG processing.
+* Administered experimental protocols to participants.
+* Created EEG data processing pipeline and subsequent statistical analyses.
 * Presented findings at the Cognitive Neuroscience Society annual meeting.
 
 **Research Assistant** \hfill May 2012 -  August 2014\
@@ -332,7 +330,7 @@ Teaching Mentors: Fred B. Bryant, Ph.D. & Rebecca L. Silton, Ph.D.\
 \vspace{-.5mm}
 
 * Designed syllabus and curriculum for face-to-face and online formats. 
-* Delivered weekly lectures. 
+* Delivered weekly lectures to a class of 35 undergraduate students. 
 * Evaluated student coursework and performance. 
 * Mentored and assisted students.  
 
@@ -341,16 +339,16 @@ Teaching Mentors: Fred B. Bryant, Ph.D. & Rebecca L. Silton, Ph.D.\
 Loyola University Chicago, Chicago IL
 \vspace{-2.5mm}
 
-* Supervised four undergraduate students' Senior Thesis projects (Provost Fellowship & Mulcahy Scholars Program), hypothesis generation, literature review, study design, data analysis, manuscript and report writing, and presentations.
+* Supervised four undergraduate students' Senior Thesis projects (Provost Fellowship & Mulcahy Scholars Program) including hypothesis generation, literature review, study design, data analysis, manuscript and report writing, and presentations.
 
 **Peer Supervisor** \hfill July 2019 - July 2020\
 NorthShore University HealthSystem\
 Supervisors: Leslie Guidotti-Breting, Ph.D., ABPP-CN, Elizabeth Geary, Ph.D., ABPP-CN, & Jerry Sweet, Ph.D., ABPP-CN\
 \vspace{-.25mm}
 
-* Read through and provided feedback on neuropsychological reports prepared by peers.
+* Provided feedback on peers' neuropsychological reports.
 * Demonstrated standardized administration of neuropsychological assessments.
-* Observed peers' administration of neuropsychological assessment and provided feedback.
+* Observed and provided feedback on peers' test administration.
 
 **Guest Lecturer** \hfill Fall 2018\
 Adult Intellectual and Personality Assessment (Graduate)\
@@ -364,8 +362,8 @@ Loyola University Chicago, Chicago, IL\
 Supervisors: Scott Leon, Ph.D. & Maryse Richards, Ph.D.
 \vspace{-2.5mm}
 
-* Supervised first- and second-year clinical psychology graduate students in developing clinical interviewing and case conceptualization skills. Reviewed mock intake and therapy sessions, evaluated clinical reports, and provided written and verbal feedback.
-* Delivered feedback to a second-year student on the development of supervisory skills. Received feedback on supervision skills from faculty supervisor.
+* Supervised first- and second-year clinical psychology graduate students in developing clinical interviewing and case conceptualization skills. Reviewed mock intake and therapy session video recordings, evaluated clinical reports, and provided written and verbal feedback.
+* Delivered feedback to a second-year student on the development of supervisory skills. Received feedback on supervision skills from faculty supervisors.
 
 **Instructor** \hfill June 2018 & July 2019\
 *Loyola University Chicago Pre-College Summer Scholars Program*\
@@ -373,12 +371,12 @@ Loyola University Chicago, Chicago, IL\
 Course: Introduction to Data Science with R
 \vspace{-2.5mm}
 
-* Delivered intensive week-long introductory course on programming, data visualization, data management/manipulation, and statistical procedures through lectures and hands-on exercises in the R programming language.
+* Created and delivered intensive week-long introductory course on programming, data visualization, data management/manipulation, and statistical procedures through lectures and hands-on exercises in the R programming language to a class of 10 high school students.
 
-**Graduate Teaching Assistant** \hfill August 2019 - December 2019\
+**Graduate Teaching Assistant**
 *Department of Psychology*\
 Loyola University Chicago\
-Course: Statistics\
+Course: Statistics \hfill August 2019 - December 2019\
 Instructor: Lawrence Behmer, Ph.D.  
 \vspace{-.25mm}
 
@@ -474,13 +472,13 @@ Society for Research in Psychopathology (SRP)\
 \hrulefill
 \vspace{-.7\baselineskip}
 
-* \textbf{R} - Open-source programming language designed for statistical computing and graphics.\
-* \textbf{lme4} - R package for fitting linear mixed-effects models.\
-* \textbf{lavaan} - R package for structural equation modeling.\
-* \textbf{ggplot2} - R package for data visualization.\
+* \textbf{R} - Open-source programming language designed for statistical computing and graphics\
+* \textbf{lme4} - R package for fitting linear mixed-effects models\
+* \textbf{lavaan} - R package for structural equation modeling\
+* \textbf{ggplot2} - R package for data visualization\
 * \textbf{tidyverse} - Suite of R packages for common data science tasks (e.g., data manipulation, data cleaning, functional programming)\
-* \textbf{rmarkdown} - R package for creating reproducible documents that integrate code and text.\
+* \textbf{rmarkdown} - R package for creating reproducible documents that integrate code and text\
 * \textbf{SPSS}\
-* \textbf{HLM} - Software for hierarchical linear modeling.\
+* \textbf{HLM} - Software for hierarchical linear modeling\
 
 
