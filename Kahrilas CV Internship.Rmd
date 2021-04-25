@@ -61,6 +61,91 @@ Psychology
 \hspace{3.7mm} assistant in cognitive neuroscience\
 \textbullet \hspace{.5mm} Dean’s List, University of Illinois at Urbana-Champaign \hfill Fall 2011 - Spring 2014  
 
+# CLINICAL EXPERIENCE
+\vspace{-\baselineskip}
+\hrulefill
+\vspace{-.7\baselineskip}
+**Advanced Neuropsychology Extern** \hfill July 2020 - Present\
+*Psychology Service*\
+Edward Hines, Jr. VA Hospital, Hines, IL\
+Supervisor: David Kinsinger, Ph.D., ABPP-CN
+\vspace{-2.5mm}
+
+* Conduct outpatient neuropsychological testing using a flexible battery approach with a Veteran population in face-to-face and telehealth modalities.
+* Presenting concerns include traumatic brain injury, substance use disorder, posttraumatic stress disorder, dementia, stroke, and medically-related cognitive impairment.
+* Conduct semi-structured clinical interviews with clients and family members, complete integrated reports based on neuropsychological assessment, medical record review, and clinical interview.
+* Receive weekly individual supervision and bi-weekly group supervision.
+* Attend weekly didactic seminars and grand rounds in neuroradiology and neuropsychology.
+
+**Advanced Psychotherapy Extern** \hfill July 2019 - July 2020\
+*Mood and Anxiety Disorders Program*\
+University of Illinois at Chicago, Department of Psychiatry, Chicago, IL\
+Supervisor: Jennifer Duffecy, Ph.D.
+\vspace{-2.5mm}
+
+* Provided long-term, weekly individual psychotherapy for adults from diverse cultural and socioeconomic backgrounds using a primarily cognitive-behavioral approach in face-to-face and telehealth modalities.
+* Presenting concerns included anxiety, panic, depression, bipolar, and phobias. Patients also presented with comorbid medical conditions, such as Ebstein's Anomaly, idiopathic hypersomnia, and ulcerative colitis.
+* Received weekly individual supervision.
+* Consulted with medical professionals and applied relevant behavioral and cognitive strategies.
+
+**Adult Neuropsychology Extern** \hfill July 2018 - July 2019\
+*Adult Neuropsychology Service*\
+NorthShore University HealthSystem & Evanston Hospital, Evanston, IL\
+Supervisors: Leslie Guidotti-Breting, Ph.D., ABPP-CN, Elizabeth Geary, Ph.D., ABPP-CN, & Jerry Sweet, Ph.D., ABPP-CN
+\vspace{-2.5mm}
+
+* Conducted neuropsychological assessments utilizing a flexible battery approach with a culturally diverse adult outpatient and inpatient population (ages 18 to 90+).
+* Presenting concerns included dementia, stroke, traumatic brain injury, concussion, epilepsy, learning disorders, attention-deficit hyperactivity disorder, psychiatric disorders, autism spectrum disorders, and neurological disorders (e.g., normal pressure hydrocephalus, pachymeningitis).
+* Conducted pre- and post-surgical candidacy evaluations for adults pursuing bariatric, left ventricular assist device (LVAD), and shunt surgeries.
+* Received weekly individual and group supervision in planning test selection, implementing, interpreting, writing, and communicating results of neuropsychological evaluations.
+* Wrote neuropsychological reports synthesizing information gathered in testing and clinical interview.
+* Attended didactic conferences and seminars devoted to topics in neurology, neuropsychology, and neuroanatomy.
+* Completed pre-season baseline concussion testing for a Chicago-based professional sport franchise.
+
+**Psychotherapy Extern** \hfill September 2017 - May 2018\
+*The Wellness Center in Student Counseling Services*\
+Loyola University Chicago, Chicago, IL\   
+Supervisors: Scott Leon, Ph.D., Jerome Wagner, Ph.D., Daniel Keller, Ph.D., Dianna Stencel, MSW, LCSW
+\vspace{-2.5mm}
+
+* Provided brief individual psychotherapy (eight sessions) to undergraduate students using CBT, ACT, and IPT approaches. Presenting problems included mood disorders, trauma, relationship concerns, and grief.
+* Conducted intake interviews, designed and implemented intervention plans, provided crisis management, and consulted with other therapists, psychiatrists, and nutritionists.
+* Co-facilitated three eight-week mindfulness-based cognitive therapy groups for students with mood disorders.
+* Received weekly individual and group supervision and participated in weekly didactic training.
+
+# RELATED CLINICAL EXPERIENCE
+\vspace{-\baselineskip}
+\hrulefill
+\vspace{-.7\baselineskip}
+**Adult Neuropsychology Technician** \hfill July 2019 - July 2020\
+*Adult Neuropsychology Service*\
+NorthShore University HealthSystem & Evanston Hospital, Evanston, IL\  
+Supervisors: Leslie Guidotti-Breting, Ph.D., ABPP-CN, Elizabeth Geary, Ph.D., ABPP-CN, & Jerry Sweet, Ph.D., ABPP-CN
+\vspace{-2.5mm}
+
+* Conducted neuropsychological assessments utilizing a flexible battery approach with a culturally diverse adult outpatient and inpatient population (ages 18 to 90+).
+* Presenting concerns included dementia, stroke, traumatic brain injury, concussion, epilepsy, learning disorders, attention-deficit hyperactivity disorder, psychiatric disorders, autism spectrum disorders, and neurological disorders (e.g., normal pressure hydrocephalus, pachymeningitis).
+* Conduct pre- and post-surgical candidacy evaluations for adults pursuing bariatric, left ventricular assist device (LVAD), and shunt surgeries.
+* Wrote neuropsychological reports synthesizing information gathered in testing and clinical interview.
+
+**Pediatric Neuropsychology Technician** \hfill January 2015 - June 2016\
+Dirksen Center for Neurobehavioral Health, Arlington Heights, IL\
+Supervisors: Courtney Dirksen, Ph.D. & Maribel Serrato, Psy.D. 
+\vspace{-2.5mm}
+
+* Observed, administered, and scored neuropsychological batteries.
+* Worked with a culturally diverse population ranging from childhood to early adulthood.
+* Prepared data tables to be used in neuropsychological reports.
+* Wrote behavioral observations to be used in neuropsychological reports.
+
+**Stress Management Peer** \hfill August 2012 - December 2012\
+*Stress Management Peers*\
+University of Illinois at Urbana-Champaign, Urbana-Champaign, IL
+\vspace{-2.5mm}
+
+* Conducted stress-management workshops for various groups on campus.
+* Collaborated with university health center to disseminate mental health information and resources.
+
 # PUBLICATIONS AND PRESENTATIONS
 \vspace{-\baselineskip}
 \hrulefill
@@ -72,16 +157,32 @@ Psychology
 \setlength{\parindent}{-0.5in}
 \setlength{\leftskip}{0.5in}
 \setlength{\parskip}{8pt}
-Rainey, V.R., Stockdale, L., Flores-Lamb, V., **Kahrilas, I.J.**, Mullins, T.K., Gjorgieva, E.,  Morrison, R.G., & Silton, R.L. (2021). Neural differences in the temporal cascade of reactive and proactive control for bilinguals and monolinguals. *Psychophysiology*, e13813. 
-
-Alexander, R., Aragon, O., Bookwala, J., Cherbuin, N., Gatt, J.M., **Kahrilas, I.J.**,  Kastener, N., Lawrence, A., Lowe, L., Morrison, R.G., Mueller, S.C., Papadelis, C., Polnaszek, K.L., Richter, S.H., Silton, R.L., & Styliadis, C. (2020). The neuroscience of positive emotions and affect: Implications for promoting happiness and wellbeing. *Neuroscience and Biobehavioral Reviews*, 121, 220-249.
-*authorship is alphabetical 
-
 **Kahrilas, I.J.**, Smith, J.L., Silton, R.L., & Bryant, F.B. (2020). Savoring the moment: A link between affectivity and depression. *International Journal of Well Being*, *10*(2), 19-36. http://dx.doi.org/10.5502/ijw.v10i2.779
 
 Silton, R.L., **Kahrilas, I.J.**, Skymba, H.V., Bryant, F.B., & Heller, W. (2020). Regulating positive emotions: Implications for promoting well-being in individuals with depression. *Emotion*, *20*(1), 93-97. http://dx.doi.org/10.1037/emo0000675
 
 **Kahrilas, I.J.** & Kahrilas, P.J. (2019). Reflux disease and idiopathic lung fibrosis: Association does not imply causation. *Chest*, *155*(1), 5-6. https://doi.org/10.1016/j.chest.2018.08.1062 
+
+\underline{\textbf{Manuscripts Under Review}}
+
+\begingroup
+\setlength{\parindent}{-0.5in}
+\setlength{\leftskip}{0.5in}
+\setlength{\parskip}{8pt}
+Alexander, R., Aragon, O., Bookwala, J., Cherbuin, N., Gatt, J.M., **Kahrilas, I.J.**,  Kastener, N., Lawrence, A., Lowe, L., Morrison, R.G., Mueller, S.C., Papadelis, C., Polnaszek, K.L., Richter, S.H., Silton, R.L., & Styliadis, C. (revise & resubmit). The neuroscience of positive emotions and affect: Implications for promoting happiness and wellbeing.  
+*authorship is alphabetical  
+
+Rainey, V.R., Stockdale, L., Flores-Lamb, V., Mullins, T.K., Gjorgieva, E., **Kahrilas, I.J.**, Morrison, R.G., & Silton, R.L. (under review). Monolingual and bilingual cognitive control differences on a color-word Stroop task. 
+\endgroup
+
+\underline{\textbf{Invited Manuscripts}}
+
+\begingroup
+\setlength{\parindent}{-0.5in}
+\setlength{\leftskip}{0.5in}
+\setlength{\parskip}{8pt}
+**Kahrilas, I.J.**, Rauch, A., Miller, G.A., & Silton, R.L. (invited manuscript). Replicability and transparency in ERP research: Guidelines and recommendations. *International Journal of Psychophysiology*.
+\endgroup
 
 \underline{\textbf{Manuscripts in Preparation}}
 
@@ -89,9 +190,11 @@ Silton, R.L., **Kahrilas, I.J.**, Skymba, H.V., Bryant, F.B., & Heller, W. (2020
 \setlength{\parindent}{-0.5in}
 \setlength{\leftskip}{0.5in}
 \setlength{\parskip}{8pt}
-**Kahrilas, I.J.**, Bryant, F.B., Miller, G.A., & Silton, R.L. (in preparation). Neural time course of positive and negative emotion reactivity and regulation.
+**Kahrilas, I.J.**, Bryant, F.B., Miller, G.A., & Silton, R.L. (in preparation). The neural correlates of positive emotion reactivity and regulation.
 
-**Kahrilas, I.J.**, Conley, C.S., Silton, R.L. (in preparation). Too much of a good thing? The EPN as a indicator of the brightening effect.
+**Kahrilas, I.J.**, Conley, C.S., Silton, R.L. (in preparation). The neural correlates of emotion reactivity in depression.
+
+**Kahrilas, I.J.**, Conley, C.S., Silton, R.L. (in preparation). Positively mindful: Changes in positive emotion reactivity after eight weeks of Headspace.
 
 \endgroup
 
@@ -107,16 +210,10 @@ Silton, R.L., **Kahrilas, I.J.**, Polnaszek, K.L., Smith, J.L., & Bryant, F.B. (
 
 \underline{\textbf{Poster Presentations \& Abstracts}}
 
-* = Loyola trainee co-author
-
 \begingroup
 \setlength{\parindent}{-0.5in}
 \setlength{\leftskip}{0.5in}
 \setlength{\parskip}{8pt}
-\*Khan, H., \*Rafiq, A., Rauch, A., **Kahrilas, I.J.** (2021, April). Be mindful and SMiLe: Changes in PA, NA, and depression after eight weeks of Headspace. Poster session presented at Loyola Undergraduate Research Opportunities Program (LUROP) Research Symposium, Chicago, IL.
-
-\*Rafiq, A., \*Khan, H., **Kahrilas, I.J.**, Rauch, A., (2021, April). Savoring: A Significant Mediator Associated with the Efficacy of Mindfulness Based Interventions on Depressive Symptomatology. Poster session presented at Loyola Undergraduate Research Opportunities Program (LUROP) Research Symposium, Chicago, IL.
-
 **Kahrilas I.J.**, Bryant, F.B., Polnaszek, K.L., Diviero, A., Schroer, M., Hussaini, A., Silton, R.L. (2019, September). Positive emotion regulation: The neural correlates of savoring. Poster session presented at Society for Psychophysiological Research Annual Meeting, Washington, DC.  
 
 **Kahrilas, I.J.**, Sims, E., Dosamantes, N., Ward, S., Silton, R.L., & Morrison, R.G. (2019, March). Functional differences in a cognitive control network in older adults with exceptional memory. Poster session presented at the Cognitive Neuroscience Society Annual Meeting, San Francisco, CA.  
@@ -148,7 +245,7 @@ Ballou, S., Quinton, S., **Kahrilas, I.**, Lackner, J., Keefer, L. (2014). Impai
 \hrulefill
 \vspace{-.7\baselineskip}
 
-**Kahrilas, I.J.** (2021, April). *Individual differences and neural correlates of emotion reactivity and regulation: Potential intervention targets in depression*. Invited seminar talk at Loyola University Chicago's Department of Neuroscience, Chicago, IL.
+**Kahrilas, I.J.** (2021, May). *The neural correlates of positive emotion reactivity and regulation in depression*. Invited seminar talk at Loyola University Chicago's Department of Neuroscience, Chicago, IL.
 
 **Kahrilas, I.J.** (2017, 2018, 2019, & 2020). *Career paths in clinical psychology*. Invited professional panel speaker in Loyola University Chicago's undergraduate psychology internship course, Chicago, IL.
 
@@ -164,7 +261,6 @@ Ballou, S., Quinton, S., **Kahrilas, I.**, Lackner, J., Keefer, L. (2014). Impai
 
 \endgroup
 \endgroup
-
 # RESEARCH EXPERIENCE
 \vspace{-\baselineskip}
 \hrulefill
@@ -173,21 +269,54 @@ Ballou, S., Quinton, S., **Kahrilas, I.**, Lackner, J., Keefer, L. (2014). Impai
 *Wellbeing and Emotion Lab*  
 Loyola University Chicago, Chicago, IL   
 Principal Investigator: Rebecca Levin Silton, Ph.D.  
+\vspace{-.25mm}
+
+* Investigate the neural correlates of positive emotion regulation in psychological disorders with behavioral and electroencephalography (EEG) methods.
+* Design novel EEG emotion regulation paradigm using open-source stimuli.
+* Design, oversee, and collect data for study investigating how neural correlates of positive and negative emotion regulation vary as a function of individual differences.
+* Contribute to design, launch, and coordination of randomized controlled trial investigating the effectiveness of an eight-week mindfulness intervention on reducing depressive symptomatology and modifying individual differences and neural correlates pertaining to emotion reactivity and regulation in college students with elevated depression.
+* Organize task assignments and mentored team of research assistants.
+* Present and co-author conference presentation and talks at international conferences (e.g., Society for Affective Science annual meeting, Society for Psychophysiological Research, Society for Research in Psychopathology annual meeting).
+* Author and co-author peer-reviewed manuscripts and grant applications.
+* Write Institutional Review Board applications.
+* Supervise and mentor undergraduate independent research projects.
+* Develop expertise in psychological experimental paradigm software (E-Prime) and open-source programming languages (R, Python).
 
 **Graduate Research Assistant** \hfill August 2018 - May 2019\   
 *Cognitive and Affective Neuroscience Lab*\
 Loyola University Chicago, Chicago, IL\
 Principal Investigator: Robert Morrison, Ph.D.  
+\vspace{-.25mm}
+
+* Investigated neural correlates of cognitive ability in "super-ager" population using EEG methods (i.e., event-related potentials & source analysis).
+* Managed research projects.
+* Programmed and developed EEG experimental paradigms.
+* Administered experimental protocols to participants.
+* Created EEG data processing pipeline and subsequent statistical analyses.
+* Presented findings at the Cognitive Neuroscience Society annual meeting.
 
 **Research Assistant** \hfill May 2012 -  August 2014\
 *Center for Psychosocial Research in GI*    
 Northwestern University Feinberg School of Medicine\
 Principal Investigator: Laurie Keefer, Ph.D.
+\vspace{-2.5mm}
+
+* Assisted with data entry & organization for the Irritable Bowel Syndrome Outcome Study (IBSOS).
+* Composed blog articles for CPRGI website about the stress response’s effect on gastrointestinal function and the importance of colon cancer screening.
+* Converted questionnaire measures into online survey format for project exploring the relation between cognitive flexibility and functional gastrointestinal disorders.
+* Contacted and scheduled participants for research participation.
+* Screened potential research participants and obtained consent for research participation.
 
 **Undergraduate Research Assistant** \hfill August 2013 - May 2014\
 *Social, Cognitive, Personality, and Emotional Neuroscience Lab*\
 University of Illinois at Urbana-Champaign, Champaign, IL\
-Principal Investigator: Florin Dolcos, Ph.D.
+Principal Investigator: Florin Dolcos, Ph.D.  
+\vspace{-.25mm}
+
+* Scheduled and conducted behavioral and fMRI sessions investigating the neural correlates of emotion's impact on attention.
+* Modeled 3-D representations of brain structures using neuroimaging software.
+* Prepared stimuli for experimental sessions.
+* Managed databases for various experiments being conducted by the lab.
 
 # TEACHING AND MENTORSHIP EXPERIENCE
 \vspace{-\baselineskip}
@@ -198,77 +327,106 @@ Principal Investigator: Florin Dolcos, Ph.D.
 *Statistics*\
 Loyola University Chicago, Chicago, IL\
 Teaching Mentors: Fred B. Bryant, Ph.D. & Rebecca L. Silton, Ph.D.\
+\vspace{-.5mm}
+
+* Designed syllabus and curriculum for face-to-face and online formats. 
+* Delivered weekly lectures to a class of 35 undergraduate students. 
+* Evaluated student coursework and performance. 
+* Mentored and assisted students.  
 
 **Graduate Student Research Mentor** \hfill 2018 - Present\
 *Loyola Undergraduate Research Opportunities Program (LUROP)*\
 Loyola University Chicago, Chicago IL
+\vspace{-2.5mm}
+
+* Supervised four undergraduate students' Senior Thesis projects (Provost Fellowship & Mulcahy Scholars Program) including hypothesis generation, literature review, study design, data analysis, manuscript and report writing, and presentations.
 
 **Peer Supervisor** \hfill July 2019 - July 2020\
 NorthShore University HealthSystem\
 Supervisors: Leslie Guidotti-Breting, Ph.D., ABPP-CN, Elizabeth Geary, Ph.D., ABPP-CN, & Jerry Sweet, Ph.D., ABPP-CN\
+\vspace{-.25mm}
+
+* Provided feedback on peers' neuropsychological reports.
+* Demonstrated standardized administration of neuropsychological assessments.
+* Observed and provided feedback on peers' test administration.
+
+**Guest Lecturer** \hfill Fall 2018\
+Adult Intellectual and Personality Assessment (Graduate)\
+*Lecture: Neuropsychological Assessment*\
+Instructor: Noni Gaylord-Harden, Ph.D.\
+Loyola University Chicago, Chicago, IL
 
 **Graduate Student Supervisor** \hfill September 2017 - November 2019\
 *Department of Clinical Psychology*\
 Loyola University Chicago, Chicago, IL\
 Supervisors: Scott Leon, Ph.D. & Maryse Richards, Ph.D.
+\vspace{-2.5mm}
+
+* Supervised first- and second-year clinical psychology graduate students in developing clinical interviewing and case conceptualization skills. Reviewed mock intake and therapy session video recordings, evaluated clinical reports, and provided written and verbal feedback.
+* Delivered feedback to a second-year student on the development of supervisory skills. Received feedback on supervision skills from faculty supervisors.
 
 **Instructor** \hfill June 2018 & July 2019\
 *Loyola University Chicago Pre-College Summer Scholars Program*\
 Loyola University Chicago, Chicago, IL\
 Course: Introduction to Data Science with R
+\vspace{-2.5mm}
+
+* Created and delivered intensive week-long introductory course on programming, data visualization, data management/manipulation, and statistical procedures through lectures and hands-on exercises in the R programming language to a class of 10 high school students.
 
 **Graduate Teaching Assistant**
 *Department of Psychology*\
 Loyola University Chicago\
 Course: Statistics \hfill August 2019 - December 2019\
 Instructor: Lawrence Behmer, Ph.D.  
+\vspace{-.25mm}
+
+* Graded exams and bi-weekly homework assignments.
 
 Course: Learning & Behavior \hfill January 2019 - May 2019\
 Instructor: Eric Gobel, Ph.D.  
+\vspace{-.25mm}
+
+* Administered and graded assignments and exams.
+* Calculated grades.
+* Held weekly office hours.
 
 Course: Neuroscience \hfill August 2018 - December 2018\
 Instructor: Robert Morrison, Ph.D.
+\vspace{-2.5mm}
+
+* Administered and graded assignments and exams.
+* Calculated grades.
+* Graded weekly discussion questions and blog posts.
+* Disseminated information regarding weekly neuroscience seminars.
 
 Course: Psychology of Creativity \hfill August 2018 - December 2018\
 Instructor: Robert Morrison, Ph.D.
+\vspace{-2.5mm}
+
+* Administered and graded assignments and exams.
+* Calculated grades.
+* Graded weekly discussion questions and blog posts.
 
 Course: Introduction to Psychology \hfill September 2016 - May 2017\
 Instructor: Richard Bowen, Ph.D.  
+\vspace{-.25mm}
+
+* Administered and graded assignments and exams.
+* Calculated grades.
 
 Course: Learning and Behavior \hfill September 2016 - May 2017\
 Instructor: Jerome Wagner, Ph.D.  
+\vspace{-.25mm}
+
+* Administered and graded assignments and exams.
+* Calculated grades.
 
 Course: Psychology of Personality \hfill September 2016 - May 2017\
 Instructor: Jerome Wagner, Ph.D.  
+\vspace{-.25mm}
 
-# CLINICAL EXPERIENCE
-\vspace{-\baselineskip}
-\hrulefill
-\vspace{-.7\baselineskip}
-**Advanced Neuropsychology Extern** \hfill July 2020 - Present\
-*Psychology Service*\
-Edward Hines, Jr. VA Hospital, Hines, IL\
-Supervisors: David Kinsinger, Ph.D., ABPP-CN & Amanda Urban, Ph.D., ABPP-CN
-
-**Advanced Psychotherapy Extern** \hfill July 2019 - July 2020\
-*Mood and Anxiety Disorders Program*\
-University of Illinois at Chicago, Department of Psychiatry, Chicago, IL\
-Supervisor: Jennifer Duffecy, Ph.D.
-
-**Adult Neuropsychology Extern** \hfill July 2018 - July 2019\
-*Adult Neuropsychology Service*\
-NorthShore University HealthSystem & Evanston Hospital, Evanston, IL\
-Supervisors: Leslie Guidotti-Breting, Ph.D., ABPP-CN, Elizabeth Geary, Ph.D., ABPP-CN, & Jerry Sweet, Ph.D., ABPP-CN
-
-**Psychotherapy Extern** \hfill September 2017 - May 2018\
-*The Wellness Center in Student Counseling Services*\
-Loyola University Chicago, Chicago, IL\   
-Supervisors: Scott Leon, Ph.D., Jerome Wagner, Ph.D., Daniel Keller, Ph.D., Dianna Stencel, MSW, LCSW
-
-**Adult Neuropsychology Technician** \hfill July 2019 - July 2020\
-*Adult Neuropsychology Service*\
-NorthShore University HealthSystem & Evanston Hospital, Evanston, IL\  
-Supervisors: Leslie Guidotti-Breting, Ph.D., ABPP-CN, Elizabeth Geary, Ph.D., ABPP-CN, & Jerry Sweet, Ph.D., ABPP-CN
+* Administered and graded assignments and exams.
+* Calculated grades.
 
 # LEADERSHIP AND PROFESSIONAL SERVICE
 \vspace{-\baselineskip}
@@ -322,6 +480,5 @@ Society for Research in Psychopathology (SRP)\
 * \textbf{rmarkdown} - R package for creating reproducible documents that integrate code and text\
 * \textbf{SPSS}\
 * \textbf{HLM} - Software for hierarchical linear modeling\
-* \textbf{LISREL} - Software for structural equation modeling\
 
 
