@@ -29,8 +29,8 @@ urlcolor: blue
 **Loyola University Chicago** \hfill 2016 - Present\
 Doctor of Philosophy (anticipated graduation date: May 2022)\
 Clinical Psychology\
-\hspace{.5in} *Doctoral Dissertation: Individual Differences and Neural Correlates of Positive*\
-\hspace{.5in} *Emotion Reactivity and Regulation in Depression*\
+\hspace{.5in} *Doctoral Dissertation: Individual differences and neural correlates of emotion*\
+\hspace{.5in} *reactivity and regulation: Potential intervention targets in depression*\
 \hspace{.5in} Proposal Date: September 10th, 2020\
 \hspace{.5in} Defense Date: May 28th, 2021
 
