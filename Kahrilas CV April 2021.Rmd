@@ -1,0 +1,335 @@
+---
+title: "CV"
+author: "Ian J. Kahrilas"
+email: ian.kahrilas@gmail.com
+phone: "(847) 209-1217"
+output:
+  pdf_document:
+    latex_engine: pdflatex
+    template: Kahrilas-latex-CV.tex
+  html_document:
+    df_print: paged
+fontfamilyoptions: sc, osf
+fontsize: 12pt
+geometry: margin=1in
+github: ikahrilas
+jobtitle: Clinical Psychology Ph.D. Candidate
+keywords: R Markdown, academic CV, template
+linkcolor: blue
+osf: z5vea
+fontawesome: yes
+address: 1032 W. Sheridan Rd. · Loyola University Chicago · Chicago, IL 60660
+urlcolor: blue
+---
+
+# EDUCATION
+\vspace{-\baselineskip}
+\hrulefill
+\vspace{-.7\baselineskip}
+**Loyola University Chicago** \hfill 2016 - Present\
+Doctor of Philosophy with Distinction (anticipated graduation date: May 2022)\
+Clinical Psychology\
+\hspace{.5in} *Doctoral Dissertation: Individual differences and neural correlates of emotion*\
+\hspace{.5in} *reactivity and regulation: Potential intervention targets in depression*\
+\hspace{.5in} Defense Date: May 28th, 2021
+
+**Loyola University Chicago** \hfill 2016 - 2018\
+Master of Arts with Distinction\
+Clinical Psychology\
+\hspace{.5in} *Master's Thesis: The neurobiological correlates of savoring*
+  
+**University of Illinois at Urbana-Champaign**  \hfill 2011 - 2014  
+Bachelor of Science\
+Psychology
+
+# AWARDS & HONORS
+\vspace{-\baselineskip}
+\hrulefill
+\vspace{-.7\baselineskip}
+\textbullet \hspace{.5mm} Graduate Merit-Based Tuition Scholarship,\hfill 2016 - Present\
+\hspace{3.7mm} Loyola University Chicago\
+\textbullet \hspace{.5mm} Graduate Merit-Based Research Assistantship, \hfill 2016 - Present\
+\hspace{3.7mm} Loyola University Chicago\
+\textbullet \hspace{.5mm} Graduate Travel Award, Loyola University Chicago \hfill 2016 - Present\
+\textbullet \hspace{.5mm} Kobler Travel Award ($400) \hfill 2018, 2019\
+\textbullet \hspace{.5mm} Loyola University Chicago Thesis of the Year Award in the \hfill 2018\
+\hspace{3.7mm} Social Sciences ($300)\
+\textbullet \hspace{.5mm} Loyola University Chicago 3 Minute Thesis Competition - 1\textsuperscript{st} place Psychology \hfill 2017\
+\textbullet \hspace{.5mm} Heckler Fellowship Award ($3,000) \hfill 2017\
+\textbullet \hspace{.5mm} Emanuel Donchin Award for outstanding undergraduate research \hfill 2014\
+\hspace{3.7mm} assistant in cognitive neuroscience\
+\textbullet \hspace{.5mm} Dean’s List, University of Illinois at Urbana-Champaign \hfill Fall 2011 - Spring 2014  
+
+# PUBLICATIONS AND PRESENTATIONS
+\vspace{-\baselineskip}
+\hrulefill
+\vspace{-.2\baselineskip}
+
+\underline{\textbf{Publications}}
+
+\begingroup
+\setlength{\parindent}{-0.5in}
+\setlength{\leftskip}{0.5in}
+\setlength{\parskip}{8pt}
+Rainey, V.R., Stockdale, L., Flores-Lamb, V., **Kahrilas, I.J.**, Mullins, T.K., Gjorgieva, E.,  Morrison, R.G., & Silton, R.L. (2021). Neural differences in the temporal cascade of reactive and proactive control for bilinguals and monolinguals. *Psychophysiology*, e13813. 
+
+Alexander, R., Aragon, O., Bookwala, J., Cherbuin, N., Gatt, J.M., **Kahrilas, I.J.**,  Kastener, N., Lawrence, A., Lowe, L., Morrison, R.G., Mueller, S.C., Papadelis, C., Polnaszek, K.L., Richter, S.H., Silton, R.L., & Styliadis, C. (2020). The neuroscience of positive emotions and affect: Implications for promoting happiness and wellbeing. *Neuroscience and Biobehavioral Reviews*, 121, 220-249.
+*authorship is alphabetical 
+
+**Kahrilas, I.J.**, Smith, J.L., Silton, R.L., & Bryant, F.B. (2020). Savoring the moment: A link between affectivity and depression. *International Journal of Well Being*, *10*(2), 19-36. http://dx.doi.org/10.5502/ijw.v10i2.779
+
+Silton, R.L., **Kahrilas, I.J.**, Skymba, H.V., Bryant, F.B., & Heller, W. (2020). Regulating positive emotions: Implications for promoting well-being in individuals with depression. *Emotion*, *20*(1), 93-97. http://dx.doi.org/10.1037/emo0000675
+
+**Kahrilas, I.J.** & Kahrilas, P.J. (2019). Reflux disease and idiopathic lung fibrosis: Association does not imply causation. *Chest*, *155*(1), 5-6. https://doi.org/10.1016/j.chest.2018.08.1062 
+
+\underline{\textbf{Manuscripts in Preparation}}
+
+\begingroup
+\setlength{\parindent}{-0.5in}
+\setlength{\leftskip}{0.5in}
+\setlength{\parskip}{8pt}
+**Kahrilas, I.J.**, Bryant, F.B., Miller, G.A., & Silton, R.L. (in preparation). Neural chronometry of emotio nreactivity and Regulation.
+
+**Kahrilas, I.J.**, Polnaszek, K.L., Rauch, A., Huguenel, B., Hundert, C., Khan, H., Diviero, A., Miller, G.A., Conley, C.S., Silton, R.L. (in preparation). A potential neural mechanism supporting the brightening effect in depression.
+
+\endgroup
+
+\underline{\textbf{Conference Talks}}
+
+\begingroup
+\setlength{\parindent}{-0.5in}
+\setlength{\leftskip}{0.5in}
+\setlength{\parskip}{8pt}
+Silton, R.L., **Kahrilas, I.J.**, Polnaszek, K.L., Smith, J.L., & Bryant, F.B. (2018). Psychological and neural correlates of positive emotion regulation. Symposium paper accepted for presentation at Society for Research in Psychopathology (SRP), Indianapolis, IN.
+
+\endgroup
+
+\underline{\textbf{Poster Presentations \& Abstracts}}
+
+\* = Loyola mentee co-author
+
+\begingroup
+\setlength{\parindent}{-0.5in}
+\setlength{\leftskip}{0.5in}
+\setlength{\parskip}{8pt}
+\*Khan, H., \*Rafiq, A., Rauch, A., **Kahrilas, I.J.** (2021, April). Be mindful and SMiLe: Changes in PA, NA, and depression after eight weeks of Headspace. Poster session presented at Loyola Undergraduate Research Opportunities Program (LUROP) Research Symposium, Chicago, IL.
+
+\*Rafiq, A., \*Khan, H., **Kahrilas, I.J.**, Rauch, A., (2021, April). Savoring: A Significant Mediator Associated with the Efficacy of Mindfulness Based Interventions on Depressive Symptomatology. Poster session presented at Loyola Undergraduate Research Opportunities Program (LUROP) Research Symposium, Chicago, IL.
+
+**Kahrilas I.J.**, Bryant, F.B., Polnaszek, K.L., Diviero, A., Schroer, M., Hussaini, A., Silton, R.L. (2019, September). Positive emotion regulation: The neural correlates of savoring. Poster session presented at Society for Psychophysiological Research Annual Meeting, Washington, DC.  
+
+**Kahrilas, I.J.**, Sims, E., Dosamantes, N., Ward, S., Silton, R.L., & Morrison, R.G. (2019, March). Functional differences in a cognitive control network in older adults with exceptional memory. Poster session presented at the Cognitive Neuroscience Society Annual Meeting, San Francisco, CA.  
+
+Huguenel, B., Silton, R., Duffecy, J. Economides, M., **Kahrilas, I.J.**, & Conley, C. (2019, March). Technology- based mindfulness and depression in college students. Poster session presented at the University of Michigan Depression on College Campuses Conference, Ann Arbor, MI.  
+   
+Polnaszek, K.L., **Kahrilas I.J.**, Murray, C., Bohnert A., Hellman K.M., Tu, F.F., Silton, R.L. (2018, September). Pain Symptomatology Influences Inhibitory Control Through Psychological Symptoms in Emerging Adults. Poster session presented at Society for Research in Psychopathology (SRP), Indianapolis, IN.  
+
+**Kahrilas, I.J.**, Dickson, D.A., Lee, C., Silton, R.L. (2018, April). Positive affectivity distinctly influences negative interpretation bias in individuals with remitted depression. Poster session presented at Society for Affective Science (SAS), Los Angeles, CA.
+
+Polnaszek, K.L., **Kahrilas, I.J.**, Bates, C., Bohnert, A., Hellman, K.M., Tu, F.F., & Silton, R.L. (2018, February). Inhibitory control and psychological symptoms influence pain symptomatology in emerging adults. Poster session presented at International Neuropsychological Society (INS), Washington, D.C.
+
+Domokos, F.E., Polnaszek, K.L., **Kahrilas, I.J.**, Bryant, F.B., Tu, F.F., Hellman, K.M., & Silton, R.L. (2017, April). Savoring past and present positive events boosts positive affect for individuals with pain symptoms. Poster session presented at the Midwestern Psychological Association Annual Meeting, Chicago, IL
+
+**Kahrilas, I.J.**, Bryant, F.B., Kais, L.A., Domokos, F.E., & Silton, R.L. (2017, April). Savoring the moment distinctly mediates the relationship between affect and depression. Poster session presented at Society for Affective Science (SAS), Boston, MA.
+
+Meinke, M., **Kahrilas, I.J.**, Polnaszek, K., Silton, R.L. (2017, April). Executive function as a moderator of the relationship between psychache and suicidal ideation. Poster session presented at Loyola Undergraduate Research Opportunities Program (LUROP) Research Symposium, Chicago, IL.
+
+Keefer, L., Craft, J., Dowjotas, K., **Kahrilas, I. J.**, Roman, S., Pandolfino, J. E. (2015). Symptom reporting among PPI non responders may be driven by esophageal hypervigilance and not reflux phenotype. Gastroenterology, 148(4):S-147.
+
+Quinton, S., **Kahrilas, I. J.**, Kassam, A., Srivastava, A.K., Komanduri, S., & Keefer, L. (2014). When the diagnosis is pancreatic cancer: an analysis of coping strategies among endosonographers. Gastrointestinal Endoscopy, 79(5), AB309.
+
+Quinton, S., Srivastava, A.K., **Kahrilas, I. J.**, Keefer, L., Komanduri, S. (2014). "Breaking the bad news:" A survey of practice patterns in disclosing a pancreatic cancer diagnosis among US endosonographers. Gastrointestinal Endoscopy, 79(5), AB193.
+
+Ballou, S., Quinton, S., **Kahrilas, I.**, Lackner, J., Keefer, L. (2014). Impairment of daily activities in young adult women with Irritable Bowel syndrome. Annals of Behavioral Medicine, 47, S33.
+
+# INVITED TALKS & LECTURES
+\vspace{-\baselineskip}
+\hrulefill
+\vspace{-.7\baselineskip}
+
+**Kahrilas, I.J.** (2021, April). *Individual differences and neural correlates of emotion reactivity and regulation: Potential intervention targets in depression*. Invited seminar talk at Loyola University Chicago's Department of Neuroscience, Chicago, IL.
+
+**Kahrilas, I.J.** (2017, 2018, 2019, & 2020). *Career paths in clinical psychology*. Invited professional panel speaker in Loyola University Chicago's undergraduate psychology internship course, Chicago, IL.
+
+**Kahrilas, I.J.** (2019, May). *Case presentation on frontotemporal dementia (FTD): Patient with behavioral variant FTD*. Presentation at NorthShore University HealthSystem, Evanston, IL.
+
+**Kahrilas, I.J.** (2018, November). *Case presentation on Attention Deficit Hyperactivity Disorder (ADHD)*. Presentation at NorthShore University HealthSystem, Evanston, Illinois.
+
+**Kahrilas, I.J.** (2018, November). *Case presentation on epilepsy*. Presentation at NorthShore University HealthSystem.
+
+**Kahrilas, I.J.** (2018, April). *Case presentation and formulation for adjustment disorder*. Presentation at Loyola University Chicago, Chicago, IL.
+
+**Kahrilas, I.J.** (2018, March). *Case presentation and formulation for sexuality, sexual identity, and coming out*. Presentation at Loyola University Chicago, Chicago, IL. 
+
+\endgroup
+\endgroup
+
+# RESEARCH EXPERIENCE
+\vspace{-\baselineskip}
+\hrulefill
+\vspace{-.7\baselineskip}
+**Graduate Research Assistant** \hfill August 2016 - Present\
+*Wellbeing and Emotion Lab*  
+Loyola University Chicago, Chicago, IL   
+Principal Investigator: Rebecca Levin Silton, Ph.D.  
+
+**Graduate Research Assistant** \hfill August 2018 - May 2019\   
+*Cognitive and Affective Neuroscience Lab*\
+Loyola University Chicago, Chicago, IL\
+Principal Investigator: Robert Morrison, Ph.D.  
+
+**Research Assistant** \hfill May 2012 -  August 2014\
+*Center for Psychosocial Research in GI*    
+Northwestern University Feinberg School of Medicine\
+Principal Investigator: Laurie Keefer, Ph.D.
+
+**Undergraduate Research Assistant** \hfill August 2013 - May 2014\
+*Social, Cognitive, Personality, and Emotional Neuroscience Lab*\
+University of Illinois at Urbana-Champaign, Champaign, IL\
+Principal Investigator: Florin Dolcos, Ph.D.
+
+# TEACHING AND MENTORSHIP
+\vspace{-\baselineskip}
+\hrulefill
+\vspace{-.7\baselineskip}
+
+**Instructor** \hfill Fall 2019 & Fall 2020\
+*Statistics*\
+Loyola University Chicago, Chicago, IL\
+Teaching Mentors: Fred B. Bryant, Ph.D. & Rebecca L. Silton, Ph.D.\
+\vspace{.5\baselineskip}
+
+**Graduate Student Research Mentor** \hfill 2018 - Present\
+*Loyola Undergraduate Research Opportunities Program (LUROP)*\
+Loyola University Chicago, Chicago IL
+
+**Peer Supervisor** \hfill July 2019 - July 2020\
+NorthShore University HealthSystem\
+Supervisors: Leslie Guidotti-Breting, Ph.D., ABPP-CN, Elizabeth Geary, Ph.D., ABPP-CN, & Jerry Sweet, Ph.D., ABPP-CN\
+\vspace{.5\baselineskip}
+
+**Graduate Student Supervisor** \hfill September 2017 - November 2019\
+*Clinical Psychology Program*\
+Loyola University Chicago, Chicago, IL\
+Supervisors: Scott Leon, Ph.D. & Maryse Richards, Ph.D.
+
+
+**Instructor** \hfill June 2018 & July 2019\
+*Loyola University Chicago Pre-College Summer Scholars Program*\
+Loyola University Chicago, Chicago, IL\
+Course: Introduction to Data Science with R
+
+
+**Graduate Teaching Assistant**\
+*Department of Psychology*\
+Loyola University Chicago\
+Course: Statistics \hfill August 2019 - December 2019\
+Instructor: Lawrence Behmer, Ph.D.  
+
+Course: Learning & Behavior \hfill January 2019 - May 2019\
+Instructor: Eric Gobel, Ph.D.  
+
+Course: Neuroscience \hfill August 2018 - December 2018\
+Instructor: Robert Morrison, Ph.D.
+
+Course: Psychology of Creativity \hfill August 2018 - December 2018\
+Instructor: Robert Morrison, Ph.D.
+
+Course: Introduction to Psychology \hfill September 2016 - May 2017\
+Instructor: Richard Bowen, Ph.D.  
+
+Course: Learning and Behavior \hfill September 2016 - May 2017\
+Instructor: Jerome Wagner, Ph.D.  
+
+Course: Psychology of Personality \hfill September 2016 - May 2017\
+Instructor: Jerome Wagner, Ph.D.  
+
+# CLINICAL APPOINTMENTS
+\vspace{-\baselineskip}
+\hrulefill
+\vspace{-.7\baselineskip}
+**Predoctoral Psychology Intern** \hfill June 2021 - Present\
+*Psychology Service, Trauma Services Program & Geropsychology*\
+Edward Hines, Jr. VA Hospital, Hines, IL\
+Supervisors: Barbara Pamp, Ph.D. & Kyle Page, Ph.D., ABPP
+
+**Advanced Neuropsychology Extern** \hfill July 2020 - June 2021\
+*Psychology Service*\
+Edward Hines, Jr. VA Hospital, Hines, IL\
+Supervisors: David Kinsinger, Ph.D., ABPP-CN & Amanda Urban, Ph.D., ABPP-CN
+
+**Advanced Psychotherapy Extern** \hfill July 2019 - July 2020\
+*Mood and Anxiety Disorders Program*\
+University of Illinois at Chicago, Department of Psychiatry, Chicago, IL\
+Supervisor: Jennifer Duffecy, Ph.D.
+
+**Adult Neuropsychology Extern** \hfill July 2018 - July 2019\
+*Adult Neuropsychology Service*\
+NorthShore University HealthSystem & Evanston Hospital, Evanston, IL\
+Supervisors: Leslie Guidotti-Breting, Ph.D., ABPP-CN, Elizabeth Geary, Ph.D., ABPP-CN, & Jerry Sweet, Ph.D., ABPP-CN
+
+**Psychotherapy Extern** \hfill September 2017 - May 2018\
+*The Wellness Center in Student Counseling Services*\
+Loyola University Chicago, Chicago, IL\   
+Supervisors: Scott Leon, Ph.D., Jerome Wagner, Ph.D., Daniel Keller, Ph.D., Dianna Stencel, MSW, LCSW
+
+**Adult Neuropsychology Technician** \hfill July 2019 - July 2020\
+*Adult Neuropsychology Service*\
+NorthShore University HealthSystem & Evanston Hospital, Evanston, IL\  
+Supervisors: Leslie Guidotti-Breting, Ph.D., ABPP-CN, Elizabeth Geary, Ph.D., ABPP-CN, & Jerry Sweet, Ph.D., ABPP-CN
+
+# LEADERSHIP AND PROFESSIONAL SERVICE
+\vspace{-\baselineskip}
+\hrulefill
+\vspace{-.2\baselineskip}
+
+\underline{\textbf{Committee Membership}}
+
+**Clinical Graduate Student Technology Committee** \hfill September 2019 - Present\
+Clinical Psychology Program, Loyola University Chicago   
+
+**Clinical Graduate Student Information Committee** \hfill September 2018 - Present\
+Clinical Psychology Program, Loyola University Chicago
+
+**Graduate Student Advisory Council** \hfill \hfill September 2017 - Present\
+Loyola University Chicago
+
+**Clinical Colloquium Committee**, *Chair* \hfill September 2017 - May 2018\
+Clinical Psychology Program, Loyola University Chicago   
+
+\underline{\textbf{Ad Hoc Manuscript Reviews}} \hfill \underline{Number of Reviews}\
+
+Reviewer, *Journal of Personality* \hspace{3.31in} 1\
+Co-Reviewer, *Journal of Adolescence* \hspace{3.03in} 1\
+Co-Reviewer, *Psychopathology & Behavioral Assessment* \hspace{1.65in} 2\
+Co-Reviewer, *Journal of Experimental Child Psychology* \hspace{1.68in} 1\
+
+# PROFESSIONAL AFFILIATIONS
+\vspace{-\baselineskip}
+\hrulefill
+\vspace{-.7\baselineskip}
+Society for Psychophysiological Research (SPR)\
+American Psychological Association (APA) Graduate Student Affiliate\
+APA Division 12, Clinical Psychology\
+APA Division 40, Society for Clinical Neuropsychology\
+Cognitive Neuroscience Society (CNS)\
+Society for Affective Science (SAS)\
+International Neuropsychological Society (INS)\
+Society for Research in Psychopathology (SRP)\
+
+# STATISTICAL APPLICATIONS
+\vspace{-\baselineskip}
+\hrulefill
+\vspace{-.7\baselineskip}
+
+* \textbf{R} - Open-source programming language designed for statistical computing and graphics\
+* \textbf{lme4} - R package for fitting linear mixed-effects models\
+* \textbf{lavaan} - R package for structural equation modeling\
+* \textbf{ggplot2} - R package for data visualization\
+* \textbf{tidyverse} - Suite of R packages for common data science tasks (e.g., data manipulation, data cleaning, functional programming)\
+* \textbf{rmarkdown} - R package for creating reproducible documents that integrate code and text\
+* \textbf{SPSS}\
+* \textbf{HLM} - Software for hierarchical linear modeling\
+* \textbf{LISREL} - Software for structural equation modeling\
+
+
