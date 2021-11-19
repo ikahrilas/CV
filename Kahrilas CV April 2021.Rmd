@@ -67,6 +67,8 @@ Psychology
 
 \underline{\textbf{Publications}}
 
+\vspace{-.1\baselineskip}
+
 \begingroup
 \setlength{\parindent}{-0.5in}
 \setlength{\leftskip}{0.5in}
@@ -88,14 +90,18 @@ Silton, R.L., **Kahrilas, I.J.**, Skymba, H.V., Bryant, F.B., & Heller, W. (2020
 \setlength{\parindent}{-0.5in}
 \setlength{\leftskip}{0.5in}
 \setlength{\parskip}{8pt}
-**Kahrilas, I.J.**, Bryant, F.B., Miller, G.A., & Silton, R.L. (in preparation). Neural chronometry of emotio nreactivity and Regulation.
+**Kahrilas, I.J.**, Bryant, F.B., Miller, G.A., & Silton, R.L. (in preparation). Neural chronometry of emotion reactivity and Regulation.
 
 **Kahrilas, I.J.**, Polnaszek, K.L., Rauch, A., Huguenel, B., Hundert, C., Khan, H., Diviero, A., Miller, G.A., Conley, C.S., Silton, R.L. (in preparation). A potential neural mechanism supporting the brightening effect in depression.
 
-\endgroup
+Polnaszek K.L., **Kahrilas, I.J.**, Mohanty, A., Sass,S.M., Miller, G.A., Heller, W. & Silton, R.L. (in prep). Anxious arousal and anxious apprehension are distinctly related to the temporal course of response inhibition.
+ 
+Polnaszek, K.L., Murray, C.B., **Kahrilas, I.J.**, Bohnert, A.M., Tu, F.F., Hellman, K.M., & Silton, R.L. (in prep). Chronic pain and inhibitory control in emerging adults: the role of psychological symptoms.
+
+Rauch, A.R., **Kahrilas, I.J.**, Polnaszek, K.L., Georgaragas, A., Huguenel, B., Hundert, C., Roth, G., Conley, C., & Silton, R.L. The role of affective valence mechanisms in facilitating change in depression symptoms during a mobile mindfulness-based intervention.
 
 \underline{\textbf{Conference Talks}}
-
+\vspace{-.1\baselineskip}
 \begingroup
 \setlength{\parindent}{-0.5in}
 \setlength{\leftskip}{0.5in}
@@ -112,6 +118,8 @@ Silton, R.L., **Kahrilas, I.J.**, Polnaszek, K.L., Smith, J.L., & Bryant, F.B. (
 \setlength{\parindent}{-0.5in}
 \setlength{\leftskip}{0.5in}
 \setlength{\parskip}{8pt}
+**Kahrilas, I.J.**, Polnaszek, K.L., Rauch, A., Huguenel, B., Hundert, C., Khan, H., Diviero, A., Rafiq, A., Conley, C.S., Miller, G.A., & Silton, R.L. (2021). A potential neural mechanism supporting the brightening effect in depression. Poster accepted for presentation at the annual meeting for the Society for Psychophysiological Research (SPR), Virtual. 
+
 \*Khan, H., \*Rafiq, A., Rauch, A., **Kahrilas, I.J.** (2021, April). Be mindful and SMiLe: Changes in PA, NA, and depression after eight weeks of Headspace. Poster session presented at Loyola Undergraduate Research Opportunities Program (LUROP) Research Symposium, Chicago, IL.
 
 \*Rafiq, A., \*Khan, H., **Kahrilas, I.J.**, Rauch, A., (2021, April). Savoring: A Significant Mediator Associated with the Efficacy of Mindfulness Based Interventions on Depressive Symptomatology. Poster session presented at Loyola Undergraduate Research Opportunities Program (LUROP) Research Symposium, Chicago, IL.
@@ -284,6 +292,9 @@ Supervisors: Leslie Guidotti-Breting, Ph.D., ABPP-CN, Elizabeth Geary, Ph.D., AB
 \vspace{-.2\baselineskip}
 
 \underline{\textbf{Committee Membership}}
+
+**Co-Founder, Loyola University Chicago Quant Club** \hfill January 2021 - Present\
+Clinical Psychology Program, Loyola University Chicago
 
 **Clinical Graduate Student Technology Committee** \hfill September 2019 - Present\
 Clinical Psychology Program, Loyola University Chicago   
