@@ -73,9 +73,9 @@ Psychology
 \setlength{\parindent}{-0.5in}
 \setlength{\leftskip}{0.5in}
 \setlength{\parskip}{8pt}
-Rainey, V.R., Stockdale, L., Flores-Lamb, V., **Kahrilas, I.J.**, Mullins, T.K., Gjorgieva, E.,  Morrison, R.G., & Silton, R.L. (2021). Neural differences in the temporal cascade of reactive and proactive control for bilinguals and monolinguals. *Psychophysiology*, e13813. 
+Rainey, V.R., Stockdale, L., Flores-Lamb, V., **Kahrilas, I.J.**, Mullins, T.K., Gjorgieva, E.,  Morrison, R.G., & Silton, R.L. (2021). Neural differences in the temporal cascade of reactive and proactive control for bilinguals and monolinguals. *Psychophysiology*, e13813. https://doi.org/10.1111/psyp.13813
 
-Alexander, R., Aragon, O., Bookwala, J., Cherbuin, N., Gatt, J.M., **Kahrilas, I.J.**,  Kastener, N., Lawrence, A., Lowe, L., Morrison, R.G., Mueller, S.C., Papadelis, C., Polnaszek, K.L., Richter, S.H., Silton, R.L., & Styliadis, C. (2020). The neuroscience of positive emotions and affect: Implications for promoting happiness and wellbeing. *Neuroscience and Biobehavioral Reviews*, 121, 220-249.
+Alexander, R., Aragon, O., Bookwala, J., Cherbuin, N., Gatt, J.M., **Kahrilas, I.J.**,  Kastener, N., Lawrence, A., Lowe, L., Morrison, R.G., Mueller, S.C., Papadelis, C., Polnaszek, K.L., Richter, S.H., Silton, R.L., & Styliadis, C. (2020). The neuroscience of positive emotions and affect: Implications for promoting happiness and wellbeing. *Neuroscience and Biobehavioral Reviews*, 121, 220-249. https://doi.org/10.1016/j.neubiorev.2020.12.002 \
 *authorship is alphabetical 
 
 **Kahrilas, I.J.**, Smith, J.L., Silton, R.L., & Bryant, F.B. (2020). Savoring the moment: A link between affectivity and depression. *International Journal of Well Being*, *10*(2), 19-36. http://dx.doi.org/10.5502/ijw.v10i2.779
@@ -90,18 +90,18 @@ Silton, R.L., **Kahrilas, I.J.**, Skymba, H.V., Bryant, F.B., & Heller, W. (2020
 \setlength{\parindent}{-0.5in}
 \setlength{\leftskip}{0.5in}
 \setlength{\parskip}{8pt}
-**Kahrilas, I.J.**, Bryant, F.B., Miller, G.A., & Silton, R.L. (in preparation). Neural chronometry of emotion reactivity and Regulation.
+**Kahrilas, I.J.**, Bryant, F.B., Miller, G.A., & Silton, R.L. (in prep). Neural chronometry of emotion reactivity and Regulation.
 
-**Kahrilas, I.J.**, Polnaszek, K.L., Rauch, A., Huguenel, B., Hundert, C., Khan, H., Diviero, A., Miller, G.A., Conley, C.S., Silton, R.L. (in preparation). A potential neural mechanism supporting the brightening effect in depression.
+**Kahrilas, I.J.**, Polnaszek, K.L., Rauch, A., Huguenel, B., Hundert, C., Khan, H., Diviero, A., Miller, G.A., Conley, C.S., Silton, R.L. (in prep). A potential neural mechanism supporting the brightening effect in depression.
 
 Polnaszek K.L., **Kahrilas, I.J.**, Mohanty, A., Sass,S.M., Miller, G.A., Heller, W. & Silton, R.L. (in prep). Anxious arousal and anxious apprehension are distinctly related to the temporal course of response inhibition.
  
 Polnaszek, K.L., Murray, C.B., **Kahrilas, I.J.**, Bohnert, A.M., Tu, F.F., Hellman, K.M., & Silton, R.L. (in prep). Chronic pain and inhibitory control in emerging adults: the role of psychological symptoms.
 
-Rauch, A.R., **Kahrilas, I.J.**, Polnaszek, K.L., Georgaragas, A., Huguenel, B., Hundert, C., Roth, G., Conley, C., & Silton, R.L. The role of affective valence mechanisms in facilitating change in depression symptoms during a mobile mindfulness-based intervention.
+Rauch, A.R., **Kahrilas, I.J.**, Polnaszek, K.L., Georgaragas, A., Huguenel, B., Hundert, C., Roth, G., Conley, C., & Silton, R.L. (in prep). The role of affective valence mechanisms in facilitating change in depression symptoms during a mobile mindfulness-based intervention.
 
 \underline{\textbf{Conference Talks}}
-\vspace{-.1\baselineskip}
+
 \begingroup
 \setlength{\parindent}{-0.5in}
 \setlength{\leftskip}{0.5in}
@@ -328,19 +328,15 @@ Society for Affective Science (SAS)\
 International Neuropsychological Society (INS)\
 Society for Research in Psychopathology (SRP)\
 
-# STATISTICAL APPLICATIONS
+# SKILLS & OTHERS
 \vspace{-\baselineskip}
 \hrulefill
 \vspace{-.7\baselineskip}
 
-* \textbf{R} - Open-source programming language designed for statistical computing and graphics\
-* \textbf{lme4} - R package for fitting linear mixed-effects models\
-* \textbf{lavaan} - R package for structural equation modeling\
-* \textbf{ggplot2} - R package for data visualization\
-* \textbf{tidyverse} - Suite of R packages for common data science tasks (e.g., data manipulation, data cleaning, functional programming)\
-* \textbf{rmarkdown} - R package for creating reproducible documents that integrate code and text\
-* \textbf{SPSS}\
-* \textbf{HLM} - Software for hierarchical linear modeling\
-* \textbf{LISREL} - Software for structural equation modeling\
+* \textbf{Quantitative Analysis} - Generalized linear models, classification, dimensionality reduction, longitudinal analysis, structural equation modeling, hierarchical linear modeling\
+* \textbf{Computer Software} - R, Python, SQL, Octave, HLM, LISREL, SPSS, Microsoft Office Suite\
+* \textbf{Data Visualization} - ggplot2, shiny, matplotlib\
+* \textbf{Psychophysiological Methods} - EEG, fMRI, EKG, Skin Conductance\
+* \textbf{Survey Software} - SurveyMonkey, Qualtrics, REDCap, Google Forms\
 
 
